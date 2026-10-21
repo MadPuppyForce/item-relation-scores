@@ -1,0 +1,1719 @@
+item_x,item_y,complementarity_score
+légumes secs,riz,0.7142857142857143
+condiments d'assaisonnement,légumes secs,0.6666666666666667
+autres graisses,porc,0.6666666666666666
+crustacés,veau,0.6666666666666666
+condiments d'assaisonnement,riz,0.5882352941176471
+riz,sauces,0.56
+confiture et miel,pain,0.5328330206378986
+beurre,pain,0.5067684831655676
+agneau,haricots verts et petits pois (légumes potagers),0.5
+café,sucre et assimilés,0.4957928802588996
+riz,sel et épices,0.48275862068965514
+"légumes racines, tubercules ou bulbes",légumes secs,0.47619047619047616
+condiments d'assaisonnement,sel et épices,0.4666666666666666
+café,pain,0.46653598431811816
+"légumes racines, tubercules ou bulbes",sauces,0.43749999999999994
+légumes secs,sauces,0.4347826086956522
+"légumes racines, tubercules ou bulbes",riz,0.43478260869565216
+condiments d'assaisonnement,"légumes racines, tubercules ou bulbes",0.4166666666666667
+chicorée et poudre maltée,eau du robinet,0.4023569023569024
+condiments d'assaisonnement,sauces,0.3846153846153846
+beurre,confiture et miel,0.3753371868978806
+café,confiture et miel,0.3727943535450754
+pain,sucre et assimilés,0.3707079914919478
+légumes secs,sel et épices,0.37037037037037035
+sauces,sel et épices,0.36842105263157887
+lait en bouteille ou en brique,pain,0.3585827733659133
+jus de fruits (purs et à base  de concentré),pain,0.3452266152362584
+confiture et miel,thé et infusions,0.3417441345728199
+beurre,café,0.334982332155477
+autre viande,pommes de terre et apparentés,0.33333333333333337
+autres céréales,blé,0.33333333333333337
+autres poissons ou poissons sans précision,mélanges,0.3333333333333333
+crustacés,légumes feuilles,0.3333333333333333
+feuilletés et friands,fruits au sirop,0.3333333333333333
+margarine,pain,0.33277027027027023
+lait en bouteille ou en brique,sucre et assimilés,0.3265866209262435
+pain,thé et infusions,0.32612678636863324
+huile,sel et épices,0.3218390804597701
+café,jus de fruits (purs et à base  de concentré),0.3207920792079208
+légumes fruits,"saucisses, saucissons, andouilles et boudins",0.32
+café,lait en bouteille ou en brique,0.31283172026225414
+bœuf en pièces ou haché,légumes feuilles,0.30769230769230765
+légumes fruits,sauces,0.30769230769230765
+confiture et miel,lait en bouteille ou en brique,0.30678670360110805
+confiture et miel,jus de fruits (purs et à base  de concentré),0.30605504587155963
+beurre,sucre et assimilés,0.30546875
+"cacao, poudres et boissons cacaotées",lait en bouteille ou en brique,0.2968397291196388
+confiture et miel,sucre et assimilés,0.29601905410003404
+beurre,lait en bouteille ou en brique,0.29474516001580403
+eau du robinet,pain,0.2931228861330327
+légumes feuilles,pâtes alimentaires,0.28571428571428575
+biscottes et panification sèche,confiture et miel,0.283797729618163
+jus de fruits (purs et à base  de concentré),lait en bouteille ou en brique,0.28307910606598086
+"légumes racines, tubercules ou bulbes",sel et épices,0.2777777777777778
+"pâtés, terrines, rillettes et foie gras",vin,0.27450980392156865
+"saucisses, saucissons, andouilles et boudins",vin,0.2727272727272727
+beurre,jus de fruits (purs et à base  de concentré),0.272027373823781
+jus de fruits (purs et à base  de concentré),sucre et assimilés,0.2720114531138153
+sucre et assimilés,thé et infusions,0.26548672566371684
+blé,huile,0.26506024096385544
+beurre,biscottes et panification sèche,0.2597402597402597
+café,fruits,0.2578664620107444
+confiture et miel,margarine,0.25445544554455446
+autres poissons ou poissons sans précision,pommes de terre et apparentés,0.25
+haricots verts et petits pois (légumes potagers),produits dérivés des poissons,0.25
+fruits,pain,0.24935638102243474
+huile,"légumes racines, tubercules ou bulbes",0.2469135802469136
+blé,oléagineux et graines,0.2456140350877193
+chicorée et poudre maltée,lait en bouteille ou en brique,0.2438746438746439
+beurre,thé et infusions,0.24365482233502536
+sauces,"saucisses, saucissons, andouilles et boudins",0.24242424242424243
+confiture et miel,fruits,0.23807439824945298
+autres céréales,oléagineux et graines,0.23728813559322032
+café,viennoiserie,0.23617463617463616
+fruits,thé et infusions,0.23261117445838084
+huile,volailles et lapins,0.22988505747126436
+huile,oléagineux et graines,0.22641509433962265
+thé et infusions,yaourts et assimilés,0.22560202788339673
+jus de fruits (purs et à base  de concentré),viennoiserie,0.22496147919876733
+biscottes et panification sèche,café,0.2234733650931139
+potages et soupes,pâtes alimentaires,0.2222222222222222
+jus de fruits (purs et à base  de concentré),thé et infusions,0.22191528545119704
+café,eau du robinet,0.22161741835147747
+biscottes et panification sèche,lait en bouteille ou en brique,0.22054380664652568
+biscottes et panification sèche,margarine,0.2198581560283688
+eau du robinet,sucre et assimilés,0.21968365553602814
+confiture et miel,eau du robinet,0.21856952465570856
+confiture et miel,viennoiserie,0.21828908554572274
+pain,yaourts et assimilés,0.21789264413518888
+café,margarine,0.2163105102485827
+café,yaourts et assimilés,0.2139917695473251
+fruits,yaourts et assimilés,0.2133676092544987
+autres céréales,huile,0.2117647058823529
+chicorée et poudre maltée,pain,0.2109479305740988
+crustacés,sauces,0.21052631578947367
+aliments destinés à une alimentation particulière,café,0.2082533589251439
+condiments d'accompagnement,"pâtés, terrines, rillettes et foie gras",0.20689655172413793
+sucre et assimilés,viennoiserie,0.20553730642890664
+jus de fruits (purs et à base  de concentré),yaourts et assimilés,0.2024793388429752
+autres céréales,sel et épices,0.2
+lait en bouteille ou en brique,viennoiserie,0.19887429643527202
+fruits,sucre et assimilés,0.1964436917866215
+biscottes et panification sèche,thé et infusions,0.196078431372549
+lait en bouteille ou en brique,margarine,0.19430315361139372
+fromages frais non affinés,sauces,0.1935483870967742
+beurre,eau du robinet,0.19314641744548286
+confiture et miel,yaourts et assimilés,0.1922525107604017
+légumes feuilles,sauces,0.19047619047619047
+condiments d'accompagnement,"légumes racines, tubercules ou bulbes",0.19047619047619044
+fruits,lait en bouteille ou en brique,0.190029825308905
+jus de fruits (purs et à base  de concentré),margarine,0.18978102189781024
+fruits secs et châtaignes,oléagineux et graines,0.18965517241379312
+condiments d'assaisonnement,huile,0.18666666666666665
+huile,oeufs et dérivés,0.18518518518518517
+autres céréales,herbes aromatiques,0.18181818181818182
+autres poissons ou poissons sans précision,riz,0.18181818181818182
+autres graisses,bœuf en pièces ou haché,0.1818181818181818
+bœuf en pièces ou haché,choux,0.1818181818181818
+eau du robinet,fruits,0.18096357226792015
+biscottes et panification sèche,sucre et assimilés,0.17908954477238617
+beurre,chicorée et poudre maltée,0.17886178861788615
+sauces,vin,0.17777777777777778
+"cacao, poudres et boissons cacaotées",viennoiserie,0.17714285714285713
+chicorée et poudre maltée,sucre et assimilés,0.17687074829931973
+beurre,viennoiserie,0.17671152720889408
+margarine,thé et infusions,0.17610921501706484
+chicorée et poudre maltée,margarine,0.17604912998976457
+chicorée et poudre maltée,confiture et miel,0.17549857549857548
+biscottes et panification sèche,jus de fruits (purs et à base  de concentré),0.17415418746533554
+fromages frais non affinés,légumes fruits,0.17391304347826086
+eau du robinet,margarine,0.17064352856109907
+fruits secs et châtaignes,huile,0.16901408450704225
+eau du robinet,lait en bouteille ou en brique,0.16828752642706132
+lait en bouteille ou en brique,thé et infusions,0.16758826031475968
+autre charcuterie ou charcuterie  sans précision,condiments d'assaisonnement,0.16666666666666666
+autres produits de panification,condiments d'accompagnement,0.16666666666666666
+bœuf en pièces ou haché,pâtes alimentaires,0.16666666666666666
+condiments d'accompagnement,légumes secs,0.16666666666666666
+herbes aromatiques,sel et épices,0.16666666666666666
+légumes secs,potages et soupes,0.16666666666666666
+café,eau minérale plate,0.16658595641646487
+sucre et assimilés,yaourts et assimilés,0.1647834274952919
+aliments destinés à une alimentation particulière,pain,0.1640519946212461
+bœuf en pièces ou haché,vin,0.16216216216216214
+huile,riz,0.16216216216216214
+légumes fruits,vin,0.16216216216216214
+aliments destinés à une alimentation particulière,thé et infusions,0.16164817749603802
+"céréales sucrées, glacées ou au miel",lait en bouteille ou en brique,0.1608040201005025
+beurre,yaourts et assimilés,0.16009019165727167
+blé,sel et épices,0.15789473684210528
+"cacao, poudres et boissons cacaotées",jus de fruits (purs et à base  de concentré),0.15634771732332706
+"cacao, poudres et boissons cacaotées",pain,0.15619389587073607
+barres chocolatées,pommes de terre et apparentés,0.15384615384615385
+biscottes et panification sèche,chicorée et poudre maltée,0.15262636273538158
+margarine,sucre et assimilés,0.1508295625942685
+beurre,"cacao, poudres et boissons cacaotées",0.15071283095723015
+beurre,fruits,0.1505050505050505
+biscottes et panification sèche,eau du robinet,0.148890479599141
+thé et infusions,viennoiserie,0.1482914248871696
+condiments d'accompagnement,volailles et lapins,0.14814814814814814
+autres céréales,fruits secs et châtaignes,0.14736842105263157
+"cacao, poudres et boissons cacaotées",confiture et miel,0.14625850340136054
+poissons de mer,riz,0.14285714285714288
+potages et soupes,riz,0.14285714285714288
+bœuf en pièces ou haché,pommes de terre et apparentés,0.14285714285714285
+eau minérale gazeuse,sel et épices,0.14285714285714285
+fromages frais non affinés,vin,0.14285714285714285
+légumes fruits,produits dérivés des poissons,0.14285714285714285
+fromages affinés,pain,0.14271356783919598
+eau minérale plate,pain,0.14246823956442833
+eau minérale plate,fruits,0.13991769547325103
+huile,légumes secs,0.1388888888888889
+pâte chocolatée à tartiner,viennoiserie,0.13701923076923075
+eau du robinet,jus de fruits (purs et à base  de concentré),0.13682277318640956
+fruits,margarine,0.13530655391120508
+aliments destinés à une alimentation particulière,yaourts et assimilés,0.13493530499075787
+fromages affinés,vin,0.13471502590673576
+biscottes et panification sèche,"cacao, poudres et boissons cacaotées",0.1346938775510204
+café,eau de source,0.13424124513618677
+aliments destinés à une alimentation particulière,eau minérale plate,0.13386880856760375
+aliments destinés à une alimentation particulière,lait en bouteille ou en brique,0.13384530992868898
+"céréales sucrées, glacées ou au miel",fruits,0.1334569045412419
+condiments d'assaisonnement,poissons de mer,0.13333333333333333
+condiments d'assaisonnement,potages et soupes,0.13333333333333333
+fromages frais non affinés,"saucisses, saucissons, andouilles et boudins",0.13333333333333333
+fromages frais non affinés,veau,0.13333333333333333
+légumes fruits,poissons de mer,0.13333333333333333
+plats garnis à base de viande,vin,0.13333333333333333
+eau du robinet,yaourts et assimilés,0.13237221494102228
+oléagineux et graines,sel et épices,0.1311475409836066
+aliments destinés à une alimentation particulière,beurre,0.13025780189959293
+confiture et miel,eau minérale plate,0.13018433179723501
+fruits,jus de fruits (purs et à base  de concentré),0.13016157989228008
+aliments destinés à une alimentation particulière,margarine,0.12903225806451613
+gibier,vin,0.12903225806451613
+"cacao, poudres et boissons cacaotées",sucre et assimilés,0.1289218482601255
+"cacao, poudres et boissons cacaotées",pâte chocolatée à tartiner,0.1278688524590164
+chicorée et poudre maltée,eau de source,0.12568306010928962
+eau du robinet,viennoiserie,0.1255663430420712
+autres poissons ou poissons sans précision,crème fraîche,0.125
+crustacés,fromages frais non affinés,0.125
+"légumes racines, tubercules ou bulbes",légumes tiges,0.125
+biscottes et panification sèche,eau minérale plate,0.12340425531914893
+eau minérale plate,margarine,0.12307692307692308
+eau de source,pain,0.12286374133949192
+condiments d'assaisonnement,oléagineux et graines,0.12244897959183673
+biscottes et panification sèche,yaourts et assimilés,0.12231930103256553
+huile,sauces,0.12048192771084337
+aliments destinés à une alimentation particulière,jus de fruits (purs et à base  de concentré),0.1198044009779951
+chocolat en tablettes,viennoiserie,0.11979166666666666
+aliments destinés à une alimentation particulière,confiture et miel,0.11958310477235326
+biscottes et panification sèche,fruits,0.11893369788106631
+choux,"légumes racines, tubercules ou bulbes",0.11764705882352941
+légumes fruits,riz,0.11764705882352941
+"céréales sucrées, glacées ou au miel",yaourts et assimilés,0.11751412429378531
+aliments destinés à une alimentation particulière,biscottes et panification sèche,0.1172901921132457
+"céréales sucrées, glacées ou au miel",thé et infusions,0.11682650392327812
+eau de source,margarine,0.11668611435239205
+chicorée et poudre maltée,fruits,0.11556982343499198
+fromages affinés,jambons et charcuteries en pièces,0.11504424778761062
+margarine,yaourts et assimilés,0.11460855528652138
+viennoiserie,yaourts et assimilés,0.11391492429704397
+autre eau,chicorée et poudre maltée,0.11320754716981132
+eau de source,lait en bouteille ou en brique,0.11318619128466327
+huile,pommes de terre et apparentés,0.11267605633802819
+lait en bouteille ou en brique,yaourts et assimilés,0.11267605633802816
+eau de source,sucre et assimilés,0.1120186697782964
+beurre,eau minérale plate,0.11180992313067785
+chicorée et poudre maltée,jus de fruits (purs et à base  de concentré),0.11180904522613064
+"céréales sucrées, glacées ou au miel",jus de fruits (purs et à base  de concentré),0.1111893033075299
+crème fraîche,pommes de terre et apparentés,0.1111111111111111
+pain,viennoiserie,0.1111111111111111
+sauces,veau,0.1111111111111111
+jus de fruits (purs et à base  de concentré),pâte chocolatée à tartiner,0.11039426523297491
+beurre,eau de source,0.10948905109489052
+eau de source,fruits,0.10887772194304858
+confiture et miel,eau de source,0.1080446271285966
+blé,fruits secs et châtaignes,0.1075268817204301
+chicorée et poudre maltée,viennoiserie,0.10744580584354382
+blé,bouillons,0.10526315789473684
+fromages fondus,jambons et charcuteries en pièces,0.10526315789473684
+"légumes racines, tubercules ou bulbes",oeufs et dérivés,0.10526315789473682
+pain,pâte chocolatée à tartiner,0.10453648915187376
+eau du robinet,thé et infusions,0.10173410404624278
+aliments destinés à une alimentation particulière,chicorée et poudre maltée,0.10152284263959391
+margarine,viennoiserie,0.10132890365448506
+"céréales sucrées, glacées ou au miel",sucre et assimilés,0.10106051154086088
+fromages affinés,"pâtés, terrines, rillettes et foie gras",0.10101010101010101
+eau minérale plate,sucre et assimilés,0.10096426545660805
+biscuits sucrés,sucre et assimilés,0.10006027727546714
+autres poissons ou poissons sans précision,sauces,0.1
+blé,herbes aromatiques,0.1
+"légumes racines, tubercules ou bulbes",pommes de terre et apparentés,0.1
+pâtes alimentaires,sauces,0.1
+fruits,viennoiserie,0.09943360604153555
+autres céréales,oeufs et dérivés,0.09836065573770492
+fromages affinés,"saucisses, saucissons, andouilles et boudins",0.09836065573770492
+aliments destinés à une alimentation particulière,eau du robinet,0.0974025974025974
+biscuits sucrés,lait en bouteille ou en brique,0.09735576923076925
+eau minérale plate,lait en bouteille ou en brique,0.0970982142857143
+eau minérale plate,thé et infusions,0.09638554216867469
+fromages fondus,vin,0.09638554216867469
+eau minérale plate,yaourts et assimilés,0.09624639076034648
+chicorée et poudre maltée,yaourts et assimilés,0.09560229445506692
+oeufs et dérivés,sel et épices,0.09523809523809523
+autres produits de panification,"légumes racines, tubercules ou bulbes",0.09523809523809522
+"légumes racines, tubercules ou bulbes",potages et soupes,0.09523809523809522
+gâteaux,sucre et assimilés,0.09429280397022333
+chicorée et poudre maltée,eau minérale plate,0.09395973154362418
+biscuits sucrés,café,0.09351432880844646
+eau du robinet,fromages affinés,0.09326424870466321
+biscuits sucrés,jus de fruits (purs et à base  de concentré),0.0930546190155091
+eau minérale plate,jus de fruits (purs et à base  de concentré),0.09119300437226734
+poissons de mer,"saucisses, saucissons, andouilles et boudins",0.09090909090909091
+agneau,sel et épices,0.0909090909090909
+légumes tiges,volailles et lapins,0.0909090909090909
+"mélanges de légumes, légumes préparés et autres légumes",volailles et lapins,0.0909090909090909
+biscuits sucrés,thé et infusions,0.09019947961838681
+"cacao, poudres et boissons cacaotées",margarine,0.09014675052410902
+autres boissons fraîches,autres céréales pour petit déjeuner,0.0900900900900901
+café,fromages affinés,0.08989952406134319
+aliments destinés à une alimentation particulière,viennoiserie,0.08980355472404115
+aliments destinés à une alimentation particulière,fruits,0.08934169278996866
+herbes aromatiques,oeufs et dérivés,0.08888888888888889
+café,gâteaux,0.08771929824561404
+"cacao, poudres et boissons cacaotées",fruits,0.08702659145850121
+haricots verts et petits pois (légumes potagers),huile,0.08695652173913045
+légumes secs,oléagineux et graines,0.08695652173913045
+poissons de mer,sauces,0.08695652173913045
+potages et soupes,sauces,0.08695652173913045
+choux,volailles et lapins,0.08695652173913042
+"céréales sucrées, glacées ou au miel",fromage blanc et petits suisses,0.08602150537634408
+café,"céréales sucrées, glacées ou au miel",0.08590197069226883
+"cacao, poudres et boissons cacaotées",eau du robinet,0.08573784006595218
+céréales aux fruits frais ou secs,yaourts et assimilés,0.08516483516483517
+fromages affinés,margarine,0.08469945355191257
+beurre,compotes,0.08448415922014622
+pâte chocolatée à tartiner,sucre et assimilés,0.08423739629865985
+autres boissons fraîches,crème dessert et lait gélifié,0.08376963350785341
+autres céréales pour petit déjeuner,lait en bouteille ou en brique,0.0837404047452896
+compotes,thé et infusions,0.08341232227488152
+bœuf en pièces ou haché,"légumes racines, tubercules ou bulbes",0.08333333333333334
+oléagineux et graines,riz,0.08333333333333334
+autres poissons ou poissons sans précision,sel et épices,0.08333333333333333
+haricots verts et petits pois (légumes potagers),sel et épices,0.08333333333333333
+pâtes alimentaires,sel et épices,0.08333333333333333
+riz,"saucisses, saucissons, andouilles et boudins",0.08333333333333333
+biscottes et panification sèche,eau de source,0.08251900108577633
+fruits secs et châtaignes,sel et épices,0.08247422680412371
+eau minérale plate,fromage blanc et petits suisses,0.08189655172413793
+biscuits sucrés,"cacao, poudres et boissons cacaotées",0.08181818181818182
+sel et épices,vin,0.08163265306122448
+"cacao, poudres et boissons cacaotées",gâteaux,0.08130081300813008
+gâteaux,thé et infusions,0.08108108108108107
+autres céréales pour petit déjeuner,crème dessert et lait gélifié,0.08092485549132948
+fruits secs et châtaignes,thé et infusions,0.08091286307053942
+café,compotes,0.0807222517259692
+fromage blanc et petits suisses,fruits,0.08042328042328042
+lait en bouteille ou en brique,pâte chocolatée à tartiner,0.08020050125313283
+compotes,pain,0.0800800800800801
+autres poissons ou poissons sans précision,sodas et colas,0.08
+bœuf en pièces ou haché,huile,0.08
+huile,légumes fruits,0.08
+céréales aux fruits frais ou secs,thé et infusions,0.07984031936127745
+autres boissons fraîches,céréales aux fruits frais ou secs,0.07964601769911504
+gâteaux,lait en bouteille ou en brique,0.07886629698089957
+eau de source,yaourts et assimilés,0.07874015748031496
+"beignets, crêpes et gaufres",pâte chocolatée à tartiner,0.07746478873239436
+fruits,fruits secs et châtaignes,0.07744874715261958
+biscuits sucrés,chicorée et poudre maltée,0.07726597325408618
+pommes de terre et apparentés,volailles et lapins,0.07692307692307693
+blé,condiments d'assaisonnement,0.07692307692307691
+bœuf en pièces ou haché,sauces,0.07692307692307691
+"céréales sucrées, glacées ou au miel",eau minérale plate,0.07586206896551723
+fromage blanc et petits suisses,sucre et assimilés,0.07531943510423672
+chicorée et poudre maltée,gâteaux,0.075
+compotes,sucre et assimilés,0.07436399217221135
+biscuits sucrés,eau du robinet,0.07414272474513438
+condiments d'accompagnement,sel et épices,0.07407407407407407
+légumes secs,volailles et lapins,0.07407407407407407
+pommes de terre et apparentés,sodas et colas,0.07407407407407407
+potages et soupes,sel et épices,0.07407407407407407
+eau de source,thé et infusions,0.07395498392282958
+céréales aux fruits frais ou secs,fruits,0.07359307359307361
+beurre,fromages affinés,0.07323026851098455
+fruits secs et châtaignes,légumes secs,0.07317073170731707
+aliments destinés à une alimentation particulière,eau de source,0.07303370786516855
+compotes,yaourts et assimilés,0.07290400972053464
+"légumes racines, tubercules ou bulbes",oléagineux et graines,0.07272727272727272
+"cacao, poudres et boissons cacaotées",chocolat en tablettes,0.07220216606498195
+autre lait,chicorée et poudre maltée,0.07185628742514971
+eau de source,jus de fruits (purs et à base  de concentré),0.07169811320754717
+barres chocolatées,confiserie,0.07142857142857144
+fruits secs et châtaignes,riz,0.07142857142857142
+compotes,eau minérale plate,0.07114624505928854
+condiments d'assaisonnement,fruits secs et châtaignes,0.07058823529411765
+oléagineux et graines,sauces,0.07017543859649122
+eau du robinet,gâteaux,0.07003891050583658
+eau minérale plate,viennoiserie,0.06976744186046512
+céréales aux fruits frais ou secs,lait en bouteille ou en brique,0.06968641114982578
+autres céréales pour petit déjeuner,fruits,0.06956521739130435
+biscottes et panification sèche,compotes,0.06933333333333334
+café,fromage blanc et petits suisses,0.06915180983252296
+fromages affinés,sucre et assimilés,0.06914546640574037
+autres boissons fraîches,"cacao, poudres et boissons cacaotées",0.0690978886756238
+confiture et miel,"céréales sucrées, glacées ou au miel",0.06896551724137932
+autres produits de panification,"pâtés, terrines, rillettes et foie gras",0.06896551724137931
+barres chocolatées,volailles et lapins,0.06896551724137931
+abats,vin,0.0689655172413793
+veau,vin,0.0689655172413793
+autres boissons fraîches,fruits,0.06866952789699571
+autres boissons fraîches,thé et infusions,0.06849315068493152
+fruits,huile,0.06839622641509435
+céréales chocolatées,lait en bouteille ou en brique,0.06823027718550106
+eau de source,viennoiserie,0.06752730883813306
+compotes,céréales chocolatées,0.06751054852320675
+eau minérale gazeuse,oléagineux et graines,0.06741573033707865
+crème dessert et lait gélifié,fruits secs et châtaignes,0.06711409395973156
+fromage blanc et petits suisses,fruits secs et châtaignes,0.06698564593301436
+barres céréalières,boissons aux fruits,0.06666666666666667
+bœuf en pièces ou haché,sel et épices,0.06666666666666667
+crustacés,vin,0.06666666666666667
+légumes fruits,sel et épices,0.06666666666666667
+autres boissons fraîches,"céréales sucrées, glacées ou au miel",0.0664819944598338
+fromages affinés,oeufs et dérivés,0.06635071090047392
+biscottes et panification sèche,pâte chocolatée à tartiner,0.06632653061224489
+café,pâte chocolatée à tartiner,0.06594538897475528
+fruits secs et châtaignes,"légumes racines, tubercules ou bulbes",0.06593406593406594
+eau de source,gâteaux,0.06498194945848375
+fruits secs et châtaignes,sauces,0.06451612903225806
+pâte chocolatée à tartiner,thé et infusions,0.06404391582799634
+huile,vin,0.06382978723404255
+autre eau,"céréales sucrées, glacées ou au miel",0.06303724928366762
+eau du robinet,pâte chocolatée à tartiner,0.06294416243654821
+autres céréales pour petit déjeuner,jus de fruits (purs et à base  de concentré),0.062300319488817896
+compotes,jus de fruits (purs et à base  de concentré),0.0621761658031088
+"céréales sucrées, glacées ou au miel",eau du robinet,0.06195546950629236
+fromages fondus,oeufs et dérivés,0.061855670103092786
+"céréales sucrées, glacées ou au miel",pain,0.061553030303030304
+gâteaux,jus de fruits (purs et à base  de concentré),0.061538461538461535
+confiture et miel,gâteaux,0.06149903907751442
+fromages affinés,thé et infusions,0.06139534883720931
+autres boissons fraîches,eau minérale plate,0.061269146608315096
+biscuits sucrés,eau de source,0.06070826306913996
+blé,eau minérale gazeuse,0.06060606060606061
+fromage blanc et petits suisses,thé et infusions,0.06048780487804879
+céréales aux fruits frais ou secs,jus de fruits (purs et à base  de concentré),0.060221870047543584
+autre lait,confiture et miel,0.060171919770773644
+autres boissons fraîches,margarine,0.059970014992503755
+crème dessert et lait gélifié,fruits,0.059838895281933265
+jambons et charcuteries en pièces,oeufs et dérivés,0.0594059405940594
+compotes,fromage blanc et petits suisses,0.05921052631578948
+chocolat en tablettes,oeufs et dérivés,0.059171597633136085
+fromage blanc et petits suisses,jus de fruits (purs et à base  de concentré),0.058960434445306444
+autres céréales pour petit déjeuner,"cacao, poudres et boissons cacaotées",0.05893909626719058
+choux,huile,0.05882352941176471
+crème fraîche,volailles et lapins,0.058823529411764705
+poissons de mer,vin,0.058823529411764705
+autres céréales,eau minérale gazeuse,0.0588235294117647
+café,chocolat en tablettes,0.05860415556739478
+chocolat en tablettes,fruits secs et châtaignes,0.058536585365853655
+gibier,huile,0.057971014492753624
+herbes aromatiques,huile,0.057971014492753624
+"céréales sucrées, glacées ou au miel",fruits secs et châtaignes,0.05787781350482315
+céréales chocolatées,jus de fruits (purs et à base  de concentré),0.05756578947368421
+céréales chocolatées,fromage blanc et petits suisses,0.05741626794258373
+boissons aux fruits,lait aromatisé,0.05714285714285715
+crème dessert et lait gélifié,oléagineux et graines,0.05714285714285715
+crème fraîche,sodas et colas,0.05714285714285715
+jambons et charcuteries en pièces,"légumes racines, tubercules ou bulbes",0.05714285714285715
+fromages frais non affinés,sel et épices,0.057142857142857134
+autre eau,beurre,0.05709342560553634
+fromages affinés,yaourts et assimilés,0.05686032138442521
+chocolat en tablettes,pain,0.056737588652482275
+huile,produits dérivés des poissons,0.05633802816901409
+lait concentré ou en poudre,margarine,0.056198347107438026
+autre eau,fruits,0.056155507559395246
+confiture et miel,fromage blanc et petits suisses,0.056087551299589596
+fruits,oléagineux et graines,0.055825242718446605
+condiments d'accompagnement,huile,0.05555555555555555
+condiments d'accompagnement,vin,0.05555555555555555
+"légumes racines, tubercules ou bulbes",volailles et lapins,0.05555555555555555
+autre lait,"cacao, poudres et boissons cacaotées",0.05531914893617021
+beurre,chocolat en tablettes,0.055230125523012555
+chocolat en tablettes,jus de fruits (purs et à base  de concentré),0.055087987758224946
+fromage blanc et petits suisses,pain,0.054989816700611
+céréales aux fruits frais ou secs,fruits secs et châtaignes,0.054945054945054944
+biscuits sucrés,fruits,0.05481874447391688
+autres boissons fraîches,viennoiserie,0.05475880052151238
+fromages affinés,jus de fruits (purs et à base  de concentré),0.05453205600589535
+fruits secs et châtaignes,yaourts et assimilés,0.05444126074498567
+gâteaux,pâte chocolatée à tartiner,0.05432098765432098
+"cacao, poudres et boissons cacaotées",eau minérale plate,0.054054054054054064
+autre lait,céréales aux fruits frais ou secs,0.05405405405405405
+confiture et miel,pâte chocolatée à tartiner,0.05405405405405405
+"saucisses, saucissons, andouilles et boudins",sel et épices,0.05405405405405405
+confiture et miel,céréales aux fruits frais ou secs,0.053634438955539876
+eau minérale gazeuse,fromages affinés,0.053571428571428575
+lait concentré ou en poudre,nectars,0.05357142857142857
+autre lait,pain,0.05323590814196242
+autres boissons fraîches,confiture et miel,0.05318404478656403
+"beignets, crêpes et gaufres","cacao, poudres et boissons cacaotées",0.05306122448979591
+"cacao, poudres et boissons cacaotées",céréales chocolatées,0.05295315682281059
+compotes,eau du robinet,0.052798310454065474
+beurre,pâte chocolatée à tartiner,0.05275056518462697
+"légumes racines, tubercules ou bulbes","pâtés, terrines, rillettes et foie gras",0.052631578947368425
+chocolat en tablettes,fromages affinés,0.05263157894736842
+aliments destinés à une alimentation particulière,autres céréales,0.05249343832020997
+jambons et charcuteries en pièces,pain,0.05223880597014925
+chocolat en tablettes,thé et infusions,0.05217391304347826
+eau minérale gazeuse,huile,0.05217391304347826
+biscuits sucrés,confiture et miel,0.052109181141439205
+fromages affinés,fruits,0.05174129353233831
+autre eau,confiture et miel,0.05142460041695622
+"beignets, crêpes et gaufres",sucre et assimilés,0.05128205128205129
+autres boissons fraîches,jus de fruits (purs et à base  de concentré),0.051162790697674425
+chocolat en tablettes,lait en bouteille ou en brique,0.051006711409395965
+fromage blanc et petits suisses,lait concentré ou en poudre,0.05076142131979696
+fromage blanc et petits suisses,gâteaux,0.05070422535211267
+jambons et charcuteries en pièces,sodas et colas,0.05063291139240506
+huile,yaourts et assimilés,0.0505952380952381
+jambons et charcuteries en pièces,lait concentré ou en poudre,0.050420168067226885
+biscuits sucrés,crème dessert et lait gélifié,0.050314465408805034
+aliments destinés à une alimentation particulière,fromage blanc et petits suisses,0.05009633911368015
+biscottes et panification sèche,chocolat en tablettes,0.049723756906077346
+chicorée et poudre maltée,"céréales sucrées, glacées ou au miel",0.04963503649635037
+autre eau,pain,0.04961240310077519
+autres céréales pour petit déjeuner,yaourts et assimilés,0.04958677685950414
+fromages fondus,huile,0.049586776859504134
+compotes,lait en bouteille ou en brique,0.049543676662320735
+biscottes et panification sèche,viennoiserie,0.049315068493150684
+"cacao, poudres et boissons cacaotées",yaourts et assimilés,0.04919583727530747
+céréales chocolatées,nectars,0.049180327868852465
+blé,crème dessert et lait gélifié,0.04878048780487805
+confiserie,sel et épices,0.04878048780487805
+"cacao, poudres et boissons cacaotées",café,0.04849000425350914
+"beignets, crêpes et gaufres",lait concentré ou en poudre,0.04848484848484848
+eau du robinet,lait concentré ou en poudre,0.04842615012106538
+chocolat en tablettes,eau du robinet,0.048192771084337345
+jambons et charcuteries en pièces,vin,0.048192771084337345
+beurre,biscuits sucrés,0.04817404817404817
+autres boissons fraîches,biscuits sucrés,0.047999999999999994
+autres céréales pour petit déjeuner,thé et infusions,0.047999999999999994
+sel et épices,volailles et lapins,0.047619047619047616
+céréales aux fruits frais ou secs,eau de source,0.04716981132075472
+autres boissons fraîches,chocolat en tablettes,0.047058823529411764
+autres boissons fraîches,eau du robinet,0.046979865771812075
+gâteaux,yaourts et assimilés,0.0467706013363029
+chocolat en tablettes,yaourts et assimilés,0.04669260700389105
+biscottes et panification sèche,pain,0.04654346338124572
+champignons,oeufs et dérivés,0.046511627906976744
+huile,thé et infusions,0.046511627906976744
+"beignets, crêpes et gaufres",jus de fruits (purs et à base  de concentré),0.04643714971977582
+autres boissons fraîches,eau de source,0.04608294930875576
+"céréales sucrées, glacées ou au miel",eau de source,0.04585537918871252
+chocolat en tablettes,sucre et assimilés,0.045791245791245785
+chocolat en tablettes,confiture et miel,0.045637583892617455
+confiture et miel,fromages affinés,0.04521963824289406
+crème dessert et lait gélifié,huile,0.04511278195488721
+autres céréales pour petit déjeuner,confiture et miel,0.044975404075895994
+chicorée et poudre maltée,compotes,0.044905008635578586
+eau de source,fromages fondus,0.04481792717086835
+eau de source,sel et épices,0.04472843450479234
+fromages fondus,pain,0.04472843450479233
+autre lait,beurre,0.044682752457551385
+beurre,fromage blanc et petits suisses,0.044558697514995714
+aliments destinés à une alimentation particulière,"céréales sucrées, glacées ou au miel",0.04451510333863275
+beurre,gâteaux,0.04444444444444443
+aliments destinés à une alimentation particulière,compotes,0.04436229205175601
+autre lait,eau du robinet,0.044340723453908985
+eau du robinet,vin,0.04404145077720206
+beurre,huile,0.044036697247706424
+chocolat en tablettes,fruits,0.04397905759162304
+autres boissons fraîches,pain,0.04389994895354773
+"céréales sucrées, glacées ou au miel",margarine,0.043589743589743594
+jambons et charcuteries en pièces,margarine,0.04347826086956522
+oléagineux et graines,potages et soupes,0.04347826086956522
+biscuits sucrés,pain,0.04327808471454881
+oléagineux et graines,yaourts et assimilés,0.043209876543209874
+fromages affinés,huile,0.04291845493562232
+aliments destinés à une alimentation particulière,biscuits sucrés,0.04287901990811638
+biscuits sucrés,yaourts et assimilés,0.04287245444801715
+fruits,gâteaux,0.04259259259259259
+"beignets, crêpes et gaufres",thé et infusions,0.04255319148936171
+biscuits salés pour apéritif,oléagineux et graines,0.0425531914893617
+margarine,pâte chocolatée à tartiner,0.0425
+biscottes et panification sèche,fruits secs et châtaignes,0.0424886191198786
+autres boissons fraîches,biscottes et panification sèche,0.042432814710042434
+autres céréales pour petit déjeuner,chocolat en tablettes,0.042194092827004225
+"beignets, crêpes et gaufres",café,0.04215196894065447
+céréales aux fruits frais ou secs,"céréales sucrées, glacées ou au miel",0.04199475065616798
+confiture et miel,fruits secs et châtaignes,0.04187725631768953
+autre eau,fromage blanc et petits suisses,0.04184100418410042
+céréales aux fruits frais ou secs,oléagineux et graines,0.04166666666666667
+condiments d'accompagnement,oeufs et dérivés,0.041666666666666664
+confiserie,fruits secs et châtaignes,0.041666666666666664
+compotes,fruits,0.04154302670623145
+café,thé et infusions,0.04153555695405916
+crème dessert et lait gélifié,céréales chocolatées,0.041379310344827586
+autres céréales,fromage blanc et petits suisses,0.0410958904109589
+autre lait,autres céréales,0.04081632653061224
+"pâtés, terrines, rillettes et foie gras","saucisses, saucissons, andouilles et boudins",0.04081632653061224
+vin,volailles et lapins,0.04081632653061224
+biscuits sucrés,margarine,0.04060913705583756
+eau de source,fromages affinés,0.04056795131845842
+huile,sucre et assimilés,0.04046242774566474
+lait concentré ou en poudre,thé et infusions,0.04016913319238901
+autres boissons fraîches,sucre et assimilés,0.03961748633879781
+biscuits sucrés,eau minérale plate,0.039603960396039604
+fromages fondus,nectars,0.039603960396039604
+autre eau,sucre et assimilés,0.039455782312925174
+"cacao, poudres et boissons cacaotées","céréales sucrées, glacées ou au miel",0.0393939393939394
+eau du robinet,huile,0.03931203931203932
+beurre,"céréales sucrées, glacées ou au miel",0.03927729772191673
+eau du robinet,eau minérale plate,0.0392477514309076
+autre lait,thé et infusions,0.03921568627450981
+barres céréalières,volailles et lapins,0.0392156862745098
+condiments d'assaisonnement,oeufs et dérivés,0.0392156862745098
+aliments destinés à une alimentation particulière,chocolat en tablettes,0.03913894324853229
+fruits,pâte chocolatée à tartiner,0.039100684261974585
+lait concentré ou en poudre,pain,0.039091389329107246
+oléagineux et graines,thé et infusions,0.039045553145336226
+eau de source,eau minérale gazeuse,0.03899721448467967
+chicorée et poudre maltée,oléagineux et graines,0.03896103896103896
+huile,jus de fruits (purs et à base  de concentré),0.03865546218487395
+café,jambons et charcuteries en pièces,0.038526912181303115
+fromages fondus,yaourts et assimilés,0.038518518518518514
+chicorée et poudre maltée,pâte chocolatée à tartiner,0.038400000000000004
+autres boissons fraîches,pâte chocolatée à tartiner,0.038338658146964855
+café,céréales aux fruits frais ou secs,0.038293216630196934
+fromage blanc et petits suisses,margarine,0.03823529411764707
+gâteaux,pain,0.03819282720074523
+"beignets, crêpes et gaufres",confiture et miel,0.03818953323903819
+autre lait,eau minérale plate,0.0380952380952381
+autre lait,"céréales sucrées, glacées ou au miel",0.0379746835443038
+autre eau,lait en bouteille ou en brique,0.03791469194312796
+barres céréalières,"pâtés, terrines, rillettes et foie gras",0.03773584905660378
+pâte chocolatée à tartiner,yaourts et assimilés,0.03760282021151586
+"cacao, poudres et boissons cacaotées",eau de source,0.03758389261744966
+autres boissons fraîches,oléagineux et graines,0.0375
+eau de source,fruits secs et châtaignes,0.03743315508021391
+crème dessert et lait gélifié,eau de source,0.03733333333333333
+compotes,confiture et miel,0.03717948717948718
+autre eau,biscottes et panification sèche,0.03708987161198288
+compotes,viennoiserie,0.03703703703703704
+"beignets, crêpes et gaufres",fruits,0.036996735582154515
+autre lait,fruits,0.036488027366020526
+eau de source,eau du robinet,0.03642384105960265
+biscottes et panification sèche,gâteaux,0.036405005688282144
+barres céréalières,fruits secs et châtaignes,0.03636363636363637
+céréales aux fruits frais ou secs,potages et soupes,0.03636363636363637
+compotes,margarine,0.036211699164345405
+compotes,lait concentré ou en poudre,0.03619909502262444
+eau de source,oléagineux et graines,0.03614457831325301
+entremets,pâtisseries et tartes,0.03571428571428572
+fromages frais non affinés,oeufs et dérivés,0.03571428571428571
+céréales aux fruits frais ou secs,sucre et assimilés,0.03566529492455418
+crème dessert et lait gélifié,thé et infusions,0.0356020942408377
+"cacao, poudres et boissons cacaotées",fromages fondus,0.03555555555555556
+biscottes et panification sèche,biscuits sucrés,0.03547671840354767
+aliments destinés à une alimentation particulière,fromages affinés,0.035398230088495575
+"cacao, poudres et boissons cacaotées",lait concentré ou en poudre,0.035320088300220744
+céréales aux fruits frais ou secs,huile,0.03529411764705883
+eau de source,oeufs et dérivés,0.03529411764705882
+eau minérale gazeuse,riz,0.03508771929824561
+autre lait,margarine,0.03503184713375796
+fromages affinés,lait en bouteille ou en brique,0.035019455252918295
+autre eau,café,0.03489640130861505
+autre eau,crème fraîche,0.034782608695652174
+oeufs et dérivés,thé et infusions,0.03470715835140997
+autres céréales pour petit déjeuner,eau du robinet,0.03456221198156682
+autre eau,autres boissons fraîches,0.034482758620689655
+bœuf en pièces ou haché,fromages affinés,0.034482758620689655
+condiments d'assaisonnement,eau minérale gazeuse,0.034482758620689655
+confiserie,pâtisseries et tartes,0.034482758620689655
+"céréales sucrées, glacées ou au miel",viennoiserie,0.034482758620689655
+fromages affinés,légumes fruits,0.034482758620689655
+fromages fondus,haricots verts et petits pois (légumes potagers),0.034482758620689655
+chocolat en tablettes,gâteaux,0.03438395415472779
+eau du robinet,jambons et charcuteries en pièces,0.03435582822085889
+chocolat en tablettes,eau minérale plate,0.034334763948497854
+céréales aux fruits frais ou secs,fromage blanc et petits suisses,0.034334763948497854
+autre eau,yaourts et assimilés,0.034210526315789476
+lait concentré ou en poudre,sucre et assimilés,0.034188034188034185
+"céréales sucrées, glacées ou au miel",fromages affinés,0.03398058252427184
+"beignets, crêpes et gaufres",beurre,0.03395889186773905
+jambons et charcuteries en pièces,légumes feuilles,0.03389830508474576
+blé,oeufs et dérivés,0.033898305084745756
+autre lait,jus de fruits (purs et à base  de concentré),0.03378921962992759
+crème dessert et lait gélifié,eau du robinet,0.033775633293124246
+autre lait,oléagineux et graines,0.03361344537815126
+autres céréales pour petit déjeuner,pain,0.03358778625954199
+biscuits sucrés,nectars,0.033444816053511704
+autres céréales pour petit déjeuner,chicorée et poudre maltée,0.03333333333333334
+boissons aux fruits,gâteaux,0.03333333333333333
+pâtisseries et tartes,sodas et colas,0.03333333333333333
+biscottes et panification sèche,lait concentré ou en poudre,0.03328290468986384
+fromages fondus,fruits,0.033136094674556214
+café,eau minérale gazeuse,0.03301081388730791
+fromages affinés,sauces,0.03296703296703297
+autres céréales pour petit déjeuner,café,0.03296703296703296
+fruits,jambons et charcuteries en pièces,0.03290246768507639
+autres boissons fraîches,chicorée et poudre maltée,0.032846715328467155
+boissons aux fruits,"cacao, poudres et boissons cacaotées",0.03278688524590164
+aliments destinés à une alimentation particulière,fromages fondus,0.032786885245901634
+condiments d'accompagnement,jambons et charcuteries en pièces,0.032786885245901634
+autre eau,biscuits sucrés,0.0326975476839237
+huile,jambons et charcuteries en pièces,0.03252032520325203
+aliments destinés à une alimentation particulière,gâteaux,0.03246753246753247
+autre lait,café,0.03238414293690675
+autre lait,sucre et assimilés,0.03228070175438597
+"beignets, crêpes et bouchées à la reine",lait concentré ou en poudre,0.03225806451612903
+fromages affinés,volailles et lapins,0.032258064516129024
+compotes,gâteaux,0.032171581769437
+autres céréales,yaourts et assimilés,0.03210272873194222
+autres céréales,céréales aux fruits frais ou secs,0.032
+beurre,nectars,0.03189493433395872
+eau de source,fromage blanc et petits suisses,0.03189066059225513
+chicorée et poudre maltée,fruits secs et châtaignes,0.03187250996015936
+café,lait concentré ou en poudre,0.031710079275198186
+eau minérale gazeuse,lait en bouteille ou en brique,0.031654676258992806
+autres céréales pour petit déjeuner,beurre,0.031578947368421054
+eau minérale plate,jambons et charcuteries en pièces,0.03157894736842105
+eau de source,pâte chocolatée à tartiner,0.031558185404339245
+biscuits sucrés,viennoiserie,0.03143418467583497
+biscuits sucrés,gâteaux,0.031413612565445025
+boissons aux fruits,pâtisseries et tartes,0.03125
+jambons et charcuteries en pièces,légumes fruits,0.03125
+eau du robinet,fruits secs et châtaignes,0.03110047846889952
+compotes,"céréales sucrées, glacées ou au miel",0.030927835051546393
+chocolat en tablettes,huile,0.030769230769230774
+fromage blanc et petits suisses,huile,0.030769230769230774
+autre eau,confiserie,0.03076923076923077
+céréales aux fruits frais ou secs,pain,0.030659172202350538
+eau du robinet,oléagineux et graines,0.030612244897959186
+jambons et charcuteries en pièces,sucre et assimilés,0.03036876355748373
+autres céréales pour petit déjeuner,sucre et assimilés,0.030344827586206893
+biscottes et panification sèche,fromage blanc et petits suisses,0.030303030303030304
+biscuits sucrés,"céréales sucrées, glacées ou au miel",0.030188679245283016
+beurre,céréales aux fruits frais ou secs,0.030141843971631208
+"beignets, crêpes et gaufres",eau du robinet,0.029988465974625147
+chicorée et poudre maltée,fromages affinés,0.02995008319467554
+autre eau,gâteaux,0.029940119760479042
+agneau,huile,0.02985074626865672
+autre viande,huile,0.02985074626865672
+champignons,huile,0.02985074626865672
+huile,légumes tiges,0.02985074626865672
+compotes,eau de source,0.029850746268656716
+huile,pain,0.029676735559088504
+jambons et charcuteries en pièces,yaourts et assimilés,0.029542097488921712
+crème dessert et lait gélifié,jus de fruits (purs et à base  de concentré),0.029532403609515995
+céréales aux fruits frais ou secs,eau du robinet,0.02947845804988662
+biscuits salés pour apéritif,chocolat en tablettes,0.029411764705882353
+oléagineux et graines,vin,0.029411764705882353
+autres céréales pour petit déjeuner,fromages affinés,0.029304029304029304
+nectars,viennoiserie,0.02911208151382824
+autres boissons fraîches,café,0.0290948275862069
+biscuits sucrés,céréales chocolatées,0.028985507246376815
+autres poissons ou poissons sans précision,huile,0.028985507246376812
+blé,yaourts et assimilés,0.028985507246376812
+autre eau,"beignets, crêpes et gaufres",0.028708133971291867
+fromages fondus,"légumes racines, tubercules ou bulbes",0.028571428571428574
+céréales chocolatées,huile,0.02857142857142857
+oeufs et dérivés,vin,0.028571428571428567
+chicorée et poudre maltée,crème dessert et lait gélifié,0.028397565922920892
+"beignets, crêpes et gaufres",margarine,0.02839116719242902
+café,huile,0.02834467120181406
+fruits secs et châtaignes,sucre et assimilés,0.028328611898017
+autre eau,autres céréales pour petit déjeuner,0.02830188679245283
+aliments destinés à une alimentation particulière,jambons et charcuteries en pièces,0.02823529411764706
+autres céréales pour petit déjeuner,oléagineux et graines,0.02816901408450704
+fromages fondus,fromages frais non affinés,0.02816901408450704
+fruits secs et châtaignes,gâteaux,0.02816901408450704
+compotes,jambons et charcuteries en pièces,0.028037383177570097
+aliments destinés à une alimentation particulière,pâte chocolatée à tartiner,0.027923211169284468
+beurre,eau minérale gazeuse,0.027906976744186046
+oeufs et dérivés,pain,0.02779262426509888
+jambons et charcuteries en pièces,sauces,0.027777777777777783
+blé,fromage blanc et petits suisses,0.027777777777777776
+fruits secs et châtaignes,jus de fruits (purs et à base  de concentré),0.027777777777777776
+huile,potages et soupes,0.027777777777777776
+eau minérale gazeuse,pain,0.027659574468085108
+pâte chocolatée à tartiner,sodas et colas,0.027649769585253454
+autre eau,céréales aux fruits frais ou secs,0.027522935779816512
+beurre,lait concentré ou en poudre,0.027472527472527472
+jus de fruits (purs et à base  de concentré),oléagineux et graines,0.027397260273972605
+compotes,huile,0.0273972602739726
+eau minérale gazeuse,sodas et colas,0.0273972602739726
+beurre,fruits secs et châtaignes,0.027372262773722632
+confiture et miel,lait concentré ou en poudre,0.027357811375089996
+autres boissons fraîches,fromages affinés,0.027303754266211604
+fromages fondus,lait en bouteille ou en brique,0.02729885057471264
+biscottes et panification sèche,crème dessert et lait gélifié,0.027272727272727268
+café,fromages fondus,0.02716468590831918
+barres chocolatées,huile,0.027027027027027032
+crème dessert et lait gélifié,légumes fruits,0.02702702702702703
+"cacao, poudres et boissons cacaotées",fromage blanc et petits suisses,0.02681992337164751
+eau minérale plate,fromages affinés,0.02681992337164751
+jambons et charcuteries en pièces,jus de fruits (purs et à base  de concentré),0.02677824267782427
+fromages fondus,"saucisses, saucissons, andouilles et boudins",0.02666666666666667
+fromage blanc et petits suisses,lait en bouteille ou en brique,0.026595744680851064
+beurre,oléagineux et graines,0.026415094339622643
+biscuits sucrés,huile,0.0264026402640264
+gâteaux,margarine,0.026212319790301437
+eau minérale gazeuse,fruits,0.02609727164887307
+pain,vin,0.02598808879263671
+fromages fondus,margarine,0.025974025974025976
+lait en bouteille ou en brique,nectars,0.0258435032304379
+autre lait,fruits secs et châtaignes,0.025806451612903226
+autres céréales pour petit déjeuner,fromage blanc et petits suisses,0.02575107296137339
+barres céréalières,nectars,0.02564102564102564
+biscuits sucrés,fromage blanc et petits suisses,0.02564102564102564
+fromages affinés,fromages fondus,0.02564102564102564
+biscottes et panification sèche,"céréales sucrées, glacées ou au miel",0.02558139534883721
+céréales chocolatées,sucre et assimilés,0.025387870239774332
+crème fraîche,huile,0.02531645569620253
+chocolat en tablettes,céréales aux fruits frais ou secs,0.02510460251046025
+eau minérale plate,fruits secs et châtaignes,0.02506265664160401
+autres céréales,fruits,0.02503128911138924
+café,nectars,0.02502844141069397
+fromages fondus,"pâtés, terrines, rillettes et foie gras",0.025
+biscottes et panification sèche,fromages fondus,0.024922118380062305
+aliments destinés à une alimentation particulière,céréales aux fruits frais ou secs,0.024896265560165973
+"beignets, crêpes et gaufres",lait en bouteille ou en brique,0.024759284731774415
+autres boissons fraîches,oeufs et dérivés,0.02469135802469136
+aliments destinés à une alimentation particulière,oléagineux et graines,0.02463054187192118
+chicorée et poudre maltée,huile,0.02459016393442623
+autre lait,biscuits sucrés,0.0245398773006135
+nectars,sucre et assimilés,0.024531024531024532
+fromages affinés,viennoiserie,0.02444987775061124
+fruits secs et châtaignes,potages et soupes,0.024390243902439022
+eau du robinet,fromage blanc et petits suisses,0.02430939226519337
+biscuits sucrés,compotes,0.02403846153846154
+autres céréales pour petit déjeuner,eau de source,0.024038461538461536
+confiture et miel,oléagineux et graines,0.02393418100224383
+beurre,jambons et charcuteries en pièces,0.02391904323827047
+fruits,pâtisseries et tartes,0.02386634844868735
+pain,"pâtés, terrines, rillettes et foie gras",0.023861171366594363
+autre eau,huile,0.02380952380952381
+eau minérale gazeuse,margarine,0.023809523809523808
+fromages fondus,pâte chocolatée à tartiner,0.023809523809523808
+fromages affinés,légumes feuilles,0.02366863905325444
+autre eau,"cacao, poudres et boissons cacaotées",0.023575638506876228
+condiments d'accompagnement,fromages affinés,0.023391812865497075
+aliments destinés à une alimentation particulière,huile,0.023364485981308407
+"céréales sucrées, glacées ou au miel",pâte chocolatée à tartiner,0.023364485981308407
+compotes,volailles et lapins,0.023255813953488375
+eau du robinet,"pâtés, terrines, rillettes et foie gras",0.023225806451612905
+autres céréales pour petit déjeuner,eau minérale plate,0.02320185614849188
+autres céréales pour petit déjeuner,compotes,0.02316602316602316
+fruits secs et châtaignes,pain,0.023145712782745922
+lait concentré ou en poudre,yaourts et assimilés,0.023121387283236997
+huile,lait en bouteille ou en brique,0.02300503235082674
+"beignets, crêpes et gaufres",fromages affinés,0.022900763358778626
+crème dessert et lait gélifié,pâte chocolatée à tartiner,0.022900763358778626
+chocolat en tablettes,fromage blanc et petits suisses,0.022900763358778622
+autre lait,"beignets, crêpes et gaufres",0.022727272727272728
+biscuits sucrés,pâte chocolatée à tartiner,0.022727272727272728
+huile,sodas et colas,0.022727272727272728
+biscuits sucrés,sodas et colas,0.022641509433962263
+fromage blanc et petits suisses,nectars,0.02259887005649718
+beurre,oeufs et dérivés,0.022514071294559096
+chocolat en tablettes,eau minérale gazeuse,0.02247191011235955
+céréales chocolatées,pâte chocolatée à tartiner,0.022471910112359546
+aliments destinés à une alimentation particulière,fruits secs et châtaignes,0.02242152466367713
+café,crème dessert et lait gélifié,0.022358859698155393
+fromages affinés,"légumes racines, tubercules ou bulbes",0.022222222222222223
+fromages frais non affinés,fruits secs et châtaignes,0.022222222222222223
+vin,yaourts et assimilés,0.022151898734177215
+"cacao, poudres et boissons cacaotées",nectars,0.021978021978021976
+eau minérale gazeuse,oeufs et dérivés,0.021978021978021976
+céréales aux fruits frais ou secs,margarine,0.02190923317683881
+oeufs et dérivés,sucre et assimilés,0.02186588921282799
+autre lait,autres céréales pour petit déjeuner,0.02185792349726776
+entremets,fruits secs et châtaignes,0.021739130434782608
+fromages fondus,jus de fruits (purs et à base  de concentré),0.021684737281067557
+autre eau,thé et infusions,0.02165354330708661
+boissons aux fruits,compotes,0.02162162162162162
+autres céréales pour petit déjeuner,biscuits sucrés,0.0215633423180593
+chicorée et poudre maltée,fromage blanc et petits suisses,0.021543985637342906
+autre eau,fromages affinés,0.021505376344086023
+"cacao, poudres et boissons cacaotées",compotes,0.021505376344086023
+chocolat en tablettes,jambons et charcuteries en pièces,0.021505376344086023
+fromage blanc et petits suisses,jambons et charcuteries en pièces,0.021505376344086023
+barres céréalières,yaourts et assimilés,0.021472392638036807
+fromages affinés,fromages frais non affinés,0.0213903743315508
+aliments destinés à une alimentation particulière,"cacao, poudres et boissons cacaotées",0.02102496714848883
+aliments destinés à une alimentation particulière,autres céréales pour petit déjeuner,0.02100840336134454
+jus de fruits (purs et à base  de concentré),volailles et lapins,0.020997375328083986
+"cacao, poudres et boissons cacaotées",fromages affinés,0.020905923344947733
+autre lait,biscottes et panification sèche,0.020833333333333336
+biscuits sucrés,chocolat en tablettes,0.020833333333333336
+"céréales sucrées, glacées ou au miel",jambons et charcuteries en pièces,0.020833333333333336
+autre eau,viennoiserie,0.02080624187256177
+eau minérale plate,gâteaux,0.02072538860103627
+fromages affinés,pâte chocolatée à tartiner,0.02072538860103627
+margarine,oeufs et dérivés,0.020725388601036267
+chicorée et poudre maltée,lait concentré ou en poudre,0.020661157024793386
+café,pâtisseries et tartes,0.020642201834862383
+confiture et miel,eau minérale gazeuse,0.02061855670103093
+fruits secs et châtaignes,volailles et lapins,0.020618556701030927
+barres céréalières,sucre et assimilés,0.020558002936857566
+autre lait,gâteaux,0.020477815699658702
+chocolat en tablettes,lait concentré ou en poudre,0.020304568527918784
+fromages fondus,sucre et assimilés,0.02024584237165582
+chocolat en tablettes,crème dessert et lait gélifié,0.020202020202020204
+eau minérale plate,lait concentré ou en poudre,0.020050125313283207
+blé,fruits,0.02002503128911139
+autre lait,sel et épices,0.02
+autres boissons fraîches,fruits secs et châtaignes,0.02
+céréales chocolatées,yaourts et assimilés,0.02
+compotes,nectars,0.01990049751243781
+crème dessert et lait gélifié,eau minérale plate,0.01990049751243781
+crème dessert et lait gélifié,sucre et assimilés,0.01990049751243781
+confiserie,thé et infusions,0.019867549668874173
+fromage blanc et petits suisses,fromages affinés,0.019867549668874173
+fruits secs et châtaignes,lait en bouteille ou en brique,0.019815994338287332
+compotes,eau minérale gazeuse,0.019801980198019802
+crème dessert et lait gélifié,fromage blanc et petits suisses,0.019801980198019802
+eau du robinet,fromages fondus,0.01977750309023486
+fruits,vin,0.019753086419753086
+café,vin,0.019675925925925927
+pâtisseries et tartes,thé et infusions,0.019522776572668113
+gâteaux,pommes de terre et apparentés,0.01951219512195122
+café,oeufs et dérivés,0.019450800915331808
+autre eau,eau du robinet,0.019354838709677417
+beurre,blé,0.01932367149758454
+boissons aux fruits,céréales chocolatées,0.019230769230769232
+beurre,volailles et lapins,0.019212295869356386
+"cacao, poudres et boissons cacaotées",sodas et colas,0.019184652278177457
+nectars,pain,0.019179541822056473
+bœuf en pièces ou haché,gâteaux,0.019138755980861243
+autre eau,gibier,0.019047619047619046
+autre lait,fromage blanc et petits suisses,0.01886792452830189
+"beignets, crêpes et gaufres","légumes racines, tubercules ou bulbes",0.018867924528301886
+crème dessert et lait gélifié,oeufs et dérivés,0.018691588785046728
+crème dessert et lait gélifié,pâtisseries et tartes,0.018691588785046728
+autre eau,jus de fruits (purs et à base  de concentré),0.018604651162790697
+autres fromages ou fromage sans précision,margarine,0.018484288354898334
+eau du robinet,fromages frais non affinés,0.018469656992084433
+barres céréalières,café,0.01839080459770115
+eau du robinet,"saucisses, saucissons, andouilles et boudins",0.01837270341207349
+pâtisseries et tartes,yaourts et assimilés,0.018292682926829267
+crème fraîche,gâteaux,0.018264840182648404
+blé,chicorée et poudre maltée,0.01822323462414579
+céréales aux fruits frais ou secs,poissons de mer,0.018181818181818184
+aliments destinés à une alimentation particulière,lait concentré ou en poudre,0.01818181818181818
+autres boissons fraîches,"beignets, crêpes et gaufres",0.01809954751131222
+gâteaux,viennoiserie,0.018090452261306532
+margarine,volailles et lapins,0.01798561151079137
+boissons aux fruits,pâte chocolatée à tartiner,0.017937219730941707
+céréales chocolatées,oléagineux et graines,0.017857142857142856
+"légumes racines, tubercules ou bulbes",thé et infusions,0.017837235228539576
+céréales aux fruits frais ou secs,eau minérale plate,0.017817371937639197
+chicorée et poudre maltée,vin,0.01777777777777778
+thé et infusions,volailles et lapins,0.01775804661487236
+eau de source,pâtisseries et tartes,0.01775147928994083
+chicorée et poudre maltée,chocolat en tablettes,0.017699115044247787
+"beignets, crêpes et gaufres",viennoiserie,0.017632241813602016
+oléagineux et graines,pâte chocolatée à tartiner,0.017621145374449337
+fruits,"légumes racines, tubercules ou bulbes",0.017610062893081757
+autres boissons fraîches,gâteaux,0.01754385964912281
+eau minérale gazeuse,viennoiserie,0.01744186046511628
+café,"pâtés, terrines, rillettes et foie gras",0.017391304347826087
+crème dessert et lait gélifié,nectars,0.017391304347826087
+céréales chocolatées,"céréales sucrées, glacées ou au miel",0.017391304347826087
+gâteaux,sodas et colas,0.017391304347826087
+eau minérale gazeuse,sucre et assimilés,0.01727861771058315
+autres céréales pour petit déjeuner,fromages frais non affinés,0.017241379310344827
+barres céréalières,céréales chocolatées,0.017241379310344827
+barres céréalières,jus de fruits (purs et à base  de concentré),0.01718213058419244
+"beignets, crêpes et gaufres",sodas et colas,0.017094017094017096
+fruits secs et châtaignes,viennoiserie,0.01702127659574468
+jus de fruits (purs et à base  de concentré),pâtisseries et tartes,0.017006802721088433
+aliments destinés à une alimentation particulière,"beignets, crêpes et gaufres",0.016985138004246284
+fruits secs et châtaignes,oeufs et dérivés,0.01694915254237288
+barres céréalières,eau minérale plate,0.016901408450704227
+fromages fondus,thé et infusions,0.01689545934530095
+autres céréales pour petit déjeuner,biscottes et panification sèche,0.016830294530154277
+"beignets, crêpes et gaufres",fromage blanc et petits suisses,0.01680672268907563
+biscottes et panification sèche,céréales aux fruits frais ou secs,0.016783216783216783
+autres céréales pour petit déjeuner,céréales aux fruits frais ou secs,0.01666666666666667
+eau de source,huile,0.016666666666666666
+café,céréales chocolatées,0.016629711751662973
+nectars,pâte chocolatée à tartiner,0.016597510373443983
+eau de source,jambons et charcuteries en pièces,0.01652892561983471
+eau minérale plate,oeufs et dérivés,0.01643835616438356
+crème dessert et lait gélifié,jambons et charcuteries en pièces,0.01639344262295082
+crème dessert et lait gélifié,margarine,0.01639344262295082
+autres céréales pour petit déjeuner,confiserie,0.016393442622950817
+beurre,céréales chocolatées,0.016393442622950817
+"pâtés, terrines, rillettes et foie gras",sucre et assimilés,0.016332590942835932
+fromages affinés,fruits secs et châtaignes,0.016326530612244896
+eau de source,lait concentré ou en poudre,0.016304347826086956
+autre lait,oeufs et dérivés,0.016260162601626018
+autres boissons fraîches,pommes de terre et apparentés,0.016260162601626018
+autre eau,sel et épices,0.016260162601626015
+biscuits sucrés,céréales aux fruits frais ou secs,0.01617250673854448
+barres céréalières,lait en bouteille ou en brique,0.016140865737344093
+céréales chocolatées,eau minérale gazeuse,0.016
+eau minérale gazeuse,fruits secs et châtaignes,0.016
+lait en bouteille ou en brique,pâtisseries et tartes,0.015976761074800293
+confiture et miel,crème dessert et lait gélifié,0.015942028985507246
+autre lait,fromages affinés,0.015873015873015876
+autres boissons fraîches,autres produits de panification,0.015873015873015872
+fruits secs et châtaignes,nectars,0.015873015873015872
+aliments destinés à une alimentation particulière,blé,0.015831134564643797
+blé,eau du robinet,0.0158102766798419
+aliments destinés à une alimentation particulière,autre eau,0.015810276679841896
+crème dessert et lait gélifié,pain,0.015806111696522657
+autres boissons fraîches,bœuf en pièces ou haché,0.015748031496062992
+aliments destinés à une alimentation particulière,volailles et lapins,0.015665796344647518
+autre lait,eau minérale gazeuse,0.015625
+biscottes et panification sèche,eau minérale gazeuse,0.015576323987538943
+biscottes et panification sèche,nectars,0.015552099533437017
+sel et épices,thé et infusions,0.01553829078801332
+autre lait,eau de source,0.01550387596899225
+crème dessert et lait gélifié,lait concentré ou en poudre,0.015503875968992248
+fromage blanc et petits suisses,viennoiserie,0.015463917525773196
+autres boissons fraîches,beurre,0.015437392795883364
+sodas et colas,viennoiserie,0.015408320493066254
+autre eau,sodas et colas,0.015384615384615387
+autres boissons fraîches,barres chocolatées,0.015384615384615385
+fromage blanc et petits suisses,pâtes alimentaires,0.015384615384615385
+jus de fruits (purs et à base  de concentré),oeufs et dérivés,0.01533219761499148
+"céréales sucrées, glacées ou au miel",sodas et colas,0.015325670498084292
+boissons aux fruits,viennoiserie,0.015313935681470138
+aliments destinés à une alimentation particulière,confiserie,0.01530612244897959
+"beignets, crêpes et gaufres",oléagineux et graines,0.015267175572519085
+fruits secs et châtaignes,jambons et charcuteries en pièces,0.015267175572519083
+pain,"saucisses, saucissons, andouilles et boudins",0.015242242787152967
+pain,volailles et lapins,0.015217391304347825
+café,"saucisses, saucissons, andouilles et boudins",0.01515151515151515
+confiserie,confiture et miel,0.015094339622641508
+eau du robinet,oeufs et dérivés,0.015075376884422112
+fruits,sauces,0.015056461731493099
+autres fromages ou fromage sans précision,fromage blanc et petits suisses,0.015037593984962405
+chocolat en tablettes,condiments d'accompagnement,0.015037593984962405
+chocolat en tablettes,légumes secs,0.015037593984962405
+chocolat en tablettes,poissons de mer,0.015037593984962405
+condiments d'accompagnement,fromage blanc et petits suisses,0.015037593984962405
+fromage blanc et petits suisses,potages et soupes,0.015037593984962405
+"beignets, crêpes et gaufres",pain,0.014985014985014984
+fruits,sel et épices,0.014981273408239702
+sucre et assimilés,volailles et lapins,0.014936519790888723
+sodas et colas,sucre et assimilés,0.014858841010401188
+jus de fruits (purs et à base  de concentré),lait concentré ou en poudre,0.01477832512315271
+céréales chocolatées,eau minérale plate,0.014742014742014743
+chocolat en tablettes,condiments d'assaisonnement,0.014705882352941176
+chocolat en tablettes,légumes fruits,0.014705882352941176
+eau du robinet,eau minérale gazeuse,0.014687882496940025
+oléagineux et graines,sucre et assimilés,0.014662756598240468
+autre eau,compotes,0.014652014652014652
+biscuits sucrés,boissons aux fruits,0.014652014652014652
+boissons aux fruits,lait en bouteille ou en brique,0.014652014652014652
+confiture et miel,huile,0.014630577907827359
+chocolat en tablettes,margarine,0.014619883040935672
+autre lait,pâte chocolatée à tartiner,0.0145985401459854
+beurre,fromages fondus,0.014558689717925385
+café,fruits secs et châtaignes,0.014557670772676373
+pâtisseries et tartes,sucre et assimilés,0.01455604075691412
+confiture et miel,fromages fondus,0.01440922190201729
+lait concentré ou en poudre,viennoiserie,0.014265335235378032
+"céréales sucrées, glacées ou au miel",eau minérale gazeuse,0.014184397163120569
+"beignets, crêpes et gaufres",oeufs et dérivés,0.014184397163120567
+chocolat en tablettes,fromages frais non affinés,0.014184397163120567
+fromages frais non affinés,pain,0.014184397163120567
+gâteaux,lait concentré ou en poudre,0.014184397163120567
+café,chicorée et poudre maltée,0.014166666666666666
+crème dessert et lait gélifié,gâteaux,0.014134275618374558
+aliments destinés à une alimentation particulière,eau minérale gazeuse,0.01411764705882353
+crème dessert et lait gélifié,lait en bouteille ou en brique,0.014084507042253521
+fromage blanc et petits suisses,"légumes racines, tubercules ou bulbes",0.014084507042253521
+chocolat en tablettes,"saucisses, saucissons, andouilles et boudins",0.013986013986013986
+oléagineux et graines,pain,0.013986013986013986
+autre lait,viennoiserie,0.013888888888888888
+fromage blanc et petits suisses,sauces,0.013888888888888888
+boissons aux fruits,café,0.013793103448275862
+fruits,lait concentré ou en poudre,0.013761467889908256
+biscuits sucrés,fromages fondus,0.0136986301369863
+"cacao, poudres et boissons cacaotées",eau minérale gazeuse,0.013574660633484163
+autres céréales pour petit déjeuner,pâte chocolatée à tartiner,0.013559322033898306
+chicorée et poudre maltée,sel et épices,0.013544018058690745
+"beignets, crêpes et gaufres",fromages fondus,0.013513513513513513
+chocolat en tablettes,volailles et lapins,0.013513513513513513
+fromage blanc et petits suisses,sel et épices,0.013513513513513513
+autre lait,crème dessert et lait gélifié,0.01351351351351351
+"légumes racines, tubercules ou bulbes",sucre et assimilés,0.013503375843960991
+autres céréales,beurre,0.013500482160077145
+sauces,sucre et assimilés,0.01348314606741573
+boissons aux fruits,confiture et miel,0.013462976813762153
+lait en bouteille ou en brique,sel et épices,0.01343283582089552
+eau de source,potages et soupes,0.01342281879194631
+sucre et assimilés,vin,0.01337295690936107
+beurre,boissons aux fruits,0.013333333333333332
+eau de source,riz,0.01333333333333333
+eau du robinet,légumes fruits,0.013315579227696406
+boissons aux fruits,sucre et assimilés,0.013235294117647057
+confiture et miel,nectars,0.01322556943423953
+crème fraîche,eau du robinet,0.01321003963011889
+eau du robinet,sauces,0.013175230566534916
+autres céréales pour petit déjeuner,nectars,0.013157894736842106
+fruits secs et châtaignes,margarine,0.013136288998357963
+eau du robinet,sel et épices,0.013106159895150722
+chicorée et poudre maltée,pâtisseries et tartes,0.013100436681222708
+lait en bouteille ou en brique,oeufs et dérivés,0.013090909090909092
+chocolat en tablettes,confiserie,0.013071895424836602
+crème dessert et lait gélifié,"céréales sucrées, glacées ou au miel",0.0130718954248366
+céréales chocolatées,gâteaux,0.0130718954248366
+crème fraîche,eau de source,0.013029315960912053
+autres boissons fraîches,yaourts et assimilés,0.013020833333333334
+compotes,haricots verts et petits pois (légumes potagers),0.012987012987012988
+céréales aux fruits frais ou secs,viennoiserie,0.01297016861219196
+blé,eau de source,0.012944983818770225
+confiserie,eau du robinet,0.01288659793814433
+autres céréales,eau de source,0.012861736334405145
+compotes,produits dérivés des poissons,0.01282051282051282
+autres céréales,café,0.012798138452588714
+eau du robinet,sodas et colas,0.01278772378516624
+biscuits sucrés,lait concentré ou en poudre,0.012779552715654953
+eau minérale gazeuse,thé et infusions,0.012779552715654952
+autres céréales pour petit déjeuner,fromages fondus,0.012738853503184714
+jambons et charcuteries en pièces,thé et infusions,0.012698412698412698
+"cacao, poudres et boissons cacaotées",fruits secs et châtaignes,0.012684989429175474
+autres céréales pour petit déjeuner,jambons et charcuteries en pièces,0.012578616352201257
+"beignets, crêpes et gaufres",huile,0.012578616352201257
+biscuits sucrés,fruits secs et châtaignes,0.012461059190031154
+chicorée et poudre maltée,fromages fondus,0.012422360248447206
+autres fromages ou fromage sans précision,eau minérale plate,0.01238390092879257
+boissons aux fruits,yaourts et assimilés,0.012345679012345678
+"céréales sucrées, glacées ou au miel",gâteaux,0.012320328542094455
+céréales chocolatées,thé et infusions,0.012295081967213115
+autres céréales,jus de fruits (purs et à base  de concentré),0.01226993865030675
+autre eau,jambons et charcuteries en pièces,0.012269938650306749
+autres céréales pour petit déjeuner,gâteaux,0.012195121951219513
+"beignets, crêpes et gaufres",crème dessert et lait gélifié,0.012195121951219513
+aliments destinés à une alimentation particulière,autres boissons fraîches,0.012195121951219511
+compotes,crème fraîche,0.012195121951219511
+abats,fromages affinés,0.012048192771084336
+autre viande,fromages affinés,0.012048192771084336
+barres céréalières,fruits,0.012048192771084336
+fromages affinés,"mélanges de légumes, légumes préparés et autres légumes",0.012048192771084336
+fruits,oeufs et dérivés,0.01199040767386091
+chocolat en tablettes,pâtisseries et tartes,0.011976047904191617
+autres boissons fraîches,eau minérale gazeuse,0.011976047904191616
+chocolat en tablettes,oléagineux et graines,0.011976047904191616
+autres céréales,lait en bouteille ou en brique,0.01195814648729447
+sel et épices,sucre et assimilés,0.01194921583271098
+autres céréales pour petit déjeuner,huile,0.011904761904761906
+fromages affinés,pâtes alimentaires,0.011904761904761906
+biscottes et panification sèche,céréales chocolatées,0.011887072808320949
+boissons aux fruits,pain,0.011872638963842419
+confiture et miel,oeufs et dérivés,0.011860637509266124
+céréales chocolatées,eau du robinet,0.011848341232227489
+bouillons,fromages affinés,0.011834319526627219
+fromages affinés,pommes de terre et apparentés,0.01176470588235294
+compotes,"saucisses, saucissons, andouilles et boudins",0.011695906432748539
+autres produits de panification,fromages affinés,0.011695906432748537
+eau minérale gazeuse,jus de fruits (purs et à base  de concentré),0.011695906432748537
+fromages affinés,potages et soupes,0.011695906432748537
+café,volailles et lapins,0.011621150493898896
+"cacao, poudres et boissons cacaotées",céréales aux fruits frais ou secs,0.011605415860735008
+confiture et miel,jambons et charcuteries en pièces,0.011594202898550727
+autre eau,crème dessert et lait gélifié,0.011560693641618498
+autres boissons fraîches,fromages fondus,0.011560693641618498
+barres chocolatées,fromages affinés,0.011560693641618497
+fromage blanc et petits suisses,oeufs et dérivés,0.011560693641618497
+beurre,confiserie,0.011538461538461539
+"beignets, crêpes et gaufres",chicorée et poudre maltée,0.011516314779270634
+chocolat en tablettes,pâte chocolatée à tartiner,0.011428571428571429
+autre eau,lait concentré ou en poudre,0.011363636363636364
+légumes secs,thé et infusions,0.01128668171557562
+crème dessert et lait gélifié,yaourts et assimilés,0.011283497884344146
+eau minérale plate,oléagineux et graines,0.011267605633802818
+riz,thé et infusions,0.01126126126126126
+condiments d'assaisonnement,thé et infusions,0.01124859392575928
+autre eau,fruits secs et châtaignes,0.011235955056179775
+eau minérale plate,pâte chocolatée à tartiner,0.01119402985074627
+sauces,thé et infusions,0.011148272017837236
+autres céréales pour petit déjeuner,fruits secs et châtaignes,0.011111111111111112
+autres céréales,thé et infusions,0.011098779134295226
+chicorée et poudre maltée,céréales aux fruits frais ou secs,0.011070110701107012
+boissons aux fruits,eau minérale plate,0.011019283746556474
+céréales chocolatées,viennoiserie,0.011004126547455294
+blé,fromages affinés,0.01098901098901099
+chocolat en tablettes,nectars,0.01092896174863388
+beurre,crème dessert et lait gélifié,0.01087941976427924
+entremets,margarine,0.010849909584086798
+autre eau,céréales chocolatées,0.01075268817204301
+eau du robinet,pommes de terre et apparentés,0.010709504685408301
+"beignets, crêpes et gaufres",céréales chocolatées,0.0106951871657754
+bœuf en pièces ou haché,eau du robinet,0.010652463382157125
+fromage blanc et petits suisses,fromages fondus,0.010638297872340427
+fromages affinés,sel et épices,0.010638297872340427
+céréales chocolatées,eau de source,0.010638297872340425
+autres boissons fraîches,lait en bouteille ou en brique,0.0106312292358804
+aliments destinés à une alimentation particulière,"légumes racines, tubercules ou bulbes",0.010610079575596816
+barres céréalières,margarine,0.010582010582010583
+barres céréalières,compotes,0.010582010582010581
+autres céréales pour petit déjeuner,viennoiserie,0.010568031704095112
+aliments destinés à une alimentation particulière,sauces,0.010554089709762533
+autres céréales,eau du robinet,0.010512483574244415
+café,crème fraîche,0.010507880910683012
+biscottes et panification sèche,fromages affinés,0.010471204188481676
+autre eau,autre lait,0.010471204188481674
+fromages affinés,gâteaux,0.010443864229765013
+autres produits de panification,pâte chocolatée à tartiner,0.010362694300518135
+lait en bouteille ou en brique,sodas et colas,0.010347376201034738
+margarine,nectars,0.010327022375215147
+"beignets, crêpes et gaufres",biscuits sucrés,0.010309278350515464
+autres céréales pour petit déjeuner,"céréales sucrées, glacées ou au miel",0.010282776349614395
+autres boissons fraîches,céréales chocolatées,0.01020408163265306
+barres céréalières,fromages affinés,0.010152284263959392
+fruits,riz,0.010152284263959392
+compotes,oeufs et dérivés,0.01015228426395939
+fruits,légumes fruits,0.010139416983523449
+eau du robinet,pâtisseries et tartes,0.010050251256281407
+fruits,volailles et lapins,0.009987515605493134
+fruits,"pâtés, terrines, rillettes et foie gras",0.00988875154511743
+"beignets, crêpes et gaufres",eau de source,0.009876543209876543
+produits dérivés des poissons,yaourts et assimilés,0.009852216748768475
+autres poissons ou poissons sans précision,gâteaux,0.009852216748768473
+poissons de mer,yaourts et assimilés,0.009803921568627453
+gâteaux,légumes feuilles,0.00980392156862745
+biscottes et panification sèche,confiserie,0.009787928221859707
+"cacao, poudres et boissons cacaotées",confiserie,0.009779951100244499
+eau du robinet,nectars,0.00975609756097561
+fromages affinés,oléagineux et graines,0.00975609756097561
+confiserie,pain,0.009745533297238766
+barres chocolatées,yaourts et assimilés,0.00974025974025974
+pain,sodas et colas,0.00973499188750676
+beurre,sel et épices,0.009624639076034648
+volailles et lapins,yaourts et assimilés,0.009538950715421303
+compotes,fromages fondus,0.009433962264150943
+autre charcuterie ou charcuterie  sans précision,chicorée et poudre maltée,0.009411764705882352
+chicorée et poudre maltée,condiments d'accompagnement,0.009345794392523366
+céréales chocolatées,pain,0.009340944473274519
+autres céréales pour petit déjeuner,margarine,0.00933125972006221
+fruits,nectars,0.009324009324009322
+café,sauces,0.009318578916715201
+café,sel et épices,0.009307737056428156
+gâteaux,"légumes racines, tubercules ou bulbes",0.009302325581395349
+café,confiserie,0.009280742459396751
+gâteaux,sauces,0.009216589861751152
+café,oléagineux et graines,0.009205983889528193
+oeufs et dérivés,yaourts et assimilés,0.009174311926605505
+blé,confiture et miel,0.009132420091324202
+autres céréales,confiture et miel,0.009118541033434652
+céréales chocolatées,fruits,0.009111617312072893
+légumes secs,sucre et assimilés,0.00906344410876133
+autre eau,margarine,0.00904977375565611
+condiments d'assaisonnement,sucre et assimilés,0.00904295403165034
+"beignets, crêpes et gaufres",eau minérale plate,0.00900900900900901
+chicorée et poudre maltée,sodas et colas,0.00900900900900901
+biscuits salés pour apéritif,thé et infusions,0.008998875140607423
+eau minérale gazeuse,yaourts et assimilés,0.008995502248875561
+crème fraîche,sucre et assimilés,0.008988764044943821
+blé,lait en bouteille ou en brique,0.008982035928143712
+chicorée et poudre maltée,"pâtés, terrines, rillettes et foie gras",0.008948545861297539
+compotes,crème dessert et lait gélifié,0.008928571428571428
+nectars,yaourts et assimilés,0.008928571428571428
+blé,thé et infusions,0.008898776418242492
+lait en bouteille ou en brique,oléagineux et graines,0.008830022075055188
+"beignets, crêpes et gaufres",chocolat en tablettes,0.008771929824561403
+aliments destinés à une alimentation particulière,autre lait,0.008752735229759301
+compotes,fruits secs et châtaignes,0.008658008658008658
+autre lait,compotes,0.008620689655172414
+"céréales sucrées, glacées ou au miel",fruits au sirop,0.008583690987124463
+crème dessert et lait gélifié,fromages affinés,0.008547008547008548
+condiments d'accompagnement,"céréales sucrées, glacées ou au miel",0.008510638297872339
+chicorée et poudre maltée,eau minérale gazeuse,0.008492569002123142
+nectars,thé et infusions,0.008474576271186442
+"céréales sucrées, glacées ou au miel",potages et soupes,0.008438818565400845
+biscuits sucrés,gibier,0.008403361344537815
+"céréales sucrées, glacées ou au miel",sandwichs baguette,0.008368200836820083
+eau minérale gazeuse,pâte chocolatée à tartiner,0.008333333333333333
+biscuits sucrés,légumes secs,0.008298755186721992
+autre eau,chocolat en tablettes,0.00823045267489712
+biscuits sucrés,riz,0.008230452674897118
+"céréales sucrées, glacées ou au miel",fromages frais non affinés,0.008230452674897118
+biscuits sucrés,condiments d'assaisonnement,0.00819672131147541
+"céréales sucrées, glacées ou au miel","légumes racines, tubercules ou bulbes",0.00819672131147541
+"beignets, crêpes et gaufres",biscottes et panification sèche,0.008196721311475409
+barres chocolatées,biscuits sucrés,0.008097165991902834
+café,sodas et colas,0.008083140877598153
+biscuits sucrés,sandwichs baguette,0.008032128514056224
+condiments d'accompagnement,eau du robinet,0.008021390374331552
+biscuits sucrés,"légumes racines, tubercules ou bulbes",0.008
+gâteaux,oeufs et dérivés,0.008
+barres chocolatées,eau du robinet,0.007957559681697613
+biscuits sucrés,sauces,0.007936507936507936
+biscuits sucrés,crème fraîche,0.007874015748031496
+lait concentré ou en poudre,pâte chocolatée à tartiner,0.007843137254901962
+eau du robinet,volailles et lapins,0.00784313725490196
+"beignets, crêpes et gaufres",compotes,0.0078125
+biscuits sucrés,sel et épices,0.0078125
+confiserie,"céréales sucrées, glacées ou au miel",0.007782101167315176
+fromages fondus,gâteaux,0.007782101167315176
+compotes,céréales aux fruits frais ou secs,0.007662835249042146
+fruits,légumes secs,0.0076335877862595426
+fruits,potages et soupes,0.0076335877862595426
+"légumes racines, tubercules ou bulbes",pain,0.0076335877862595426
+pain,sauces,0.007625272331154684
+bœuf en pièces ou haché,fruits,0.007604562737642586
+condiments d'assaisonnement,fruits,0.007604562737642586
+gâteaux,jambons et charcuteries en pièces,0.007604562737642585
+riz,sucre et assimilés,0.007541478129713424
+fruits,"saucisses, saucissons, andouilles et boudins",0.007499999999999999
+biscuits sucrés,confiserie,0.00749063670411985
+gâteaux,huile,0.00746268656716418
+entremets,sucre et assimilés,0.00745156482861401
+pain,pâtisseries et tartes,0.007442849548112707
+"céréales sucrées, glacées ou au miel",oléagineux et graines,0.007434944237918215
+fruits secs et châtaignes,pâte chocolatée à tartiner,0.007434944237918215
+confiture et miel,pâtisseries et tartes,0.007412898443291327
+confiserie,fruits,0.007334963325183374
+"céréales sucrées, glacées ou au miel",oeufs et dérivés,0.007326007326007326
+autres boissons fraîches,compotes,0.007272727272727274
+"céréales sucrées, glacées ou au miel",pâtisseries et tartes,0.007168458781362007
+confiture et miel,céréales chocolatées,0.007168458781362006
+boissons aux fruits,margarine,0.0070546737213403885
+lait concentré ou en poudre,lait en bouteille ou en brique,0.007047216349541931
+jus de fruits (purs et à base  de concentré),"légumes racines, tubercules ou bulbes",0.007036059806508356
+blé,jus de fruits (purs et à base  de concentré),0.007023705004389815
+margarine,pâtisseries et tartes,0.0070052539404553416
+café,fromages frais non affinés,0.007001166861143523
+biscuits sucrés,eau minérale gazeuse,0.006993006993006994
+"cacao, poudres et boissons cacaotées",thé et infusions,0.006988120195667366
+"céréales sucrées, glacées ou au miel",nectars,0.006968641114982578
+margarine,oléagineux et graines,0.006956521739130434
+café,entremets,0.006952491309385864
+barres céréalières,biscuits sucrés,0.006872852233676975
+biscottes et panification sèche,légumes fruits,0.0068259385665529
+fruits au sirop,thé et infusions,0.006787330316742082
+autres poissons ou poissons sans précision,eau de source,0.006779661016949152
+eau de source,pâtes alimentaires,0.006779661016949152
+pommes de terre et apparentés,thé et infusions,0.0067796610169491515
+autres sandwichs,eau de source,0.006734006734006735
+"céréales sucrées, glacées ou au miel",lait concentré ou en poudre,0.006734006734006734
+céréales aux fruits frais ou secs,pâte chocolatée à tartiner,0.006734006734006733
+fromages frais non affinés,thé et infusions,0.006696428571428572
+biscottes et panification sèche,sel et épices,0.006688963210702341
+biscottes et panification sèche,volailles et lapins,0.006688963210702341
+"céréales sucrées, glacées ou au miel",huile,0.006688963210702341
+autres produits de panification,eau de source,0.006666666666666667
+condiments d'assaisonnement,eau de source,0.006644518272425249
+chocolat en tablettes,compotes,0.006622516556291392
+feuilletés et friands,yaourts et assimilés,0.006600660066006602
+plats garnis à base de viande,yaourts et assimilés,0.006600660066006602
+gibier,yaourts et assimilés,0.006589785831960461
+mélanges,yaourts et assimilés,0.006589785831960461
+autres fromages ou fromage sans précision,pain,0.006575342465753424
+autres sandwichs,yaourts et assimilés,0.006568144499178982
+bœuf en pièces ou haché,pain,0.006564551422319475
+potages et soupes,yaourts et assimilés,0.006557377049180328
+céréales chocolatées,margarine,0.006546644844517185
+eau de source,sandwichs baguette,0.006535947712418301
+fruits au sirop,yaourts et assimilés,0.006535947712418301
+condiments d'assaisonnement,yaourts et assimilés,0.0065252854812398045
+boissons aux fruits,thé et infusions,0.006507592190889371
+eau de source,sauces,0.006472491909385113
+biscottes et panification sèche,oléagineux et graines,0.006462035541195477
+fruits au sirop,viennoiserie,0.006462035541195476
+fromages frais non affinés,yaourts et assimilés,0.006451612903225806
+barres céréalières,pain,0.006413682522715126
+biscottes et panification sèche,pâtisseries et tartes,0.006359300476947536
+fromages frais non affinés,viennoiserie,0.006359300476947535
+"pâtés, terrines, rillettes et foie gras",yaourts et assimilés,0.00631911532385466
+eau de source,"pâtés, terrines, rillettes et foie gras",0.006269592476489028
+eau minérale plate,fruits au sirop,0.006230529595015576
+eau minérale plate,lait aromatisé,0.006211180124223603
+entremets,viennoiserie,0.0062015503875969
+biscottes et panification sèche,huile,0.006201550387596899
+confiserie,viennoiserie,0.006144393241167435
+barres chocolatées,eau minérale plate,0.0061162079510703364
+oléagineux et graines,viennoiserie,0.0060698027314112285
+boissons aux fruits,eau de source,0.006060606060606061
+eau minérale plate,"légumes racines, tubercules ou bulbes",0.006060606060606061
+potages et soupes,sucre et assimilés,0.006042296072507554
+biscuits salés pour apéritif,sucre et assimilés,0.006037735849056604
+autres fromages ou fromage sans précision,sucre et assimilés,0.006033182503770739
+eau minérale plate,sauces,0.006024096385542168
+oeufs et dérivés,viennoiserie,0.005997001499250375
+fromages frais non affinés,lait en bouteille ou en brique,0.0059925093632958795
+autres céréales,eau minérale plate,0.005988023952095808
+"saucisses, saucissons, andouilles et boudins",sucre et assimilés,0.005961251862891207
+barres céréalières,eau de source,0.005952380952380952
+barres céréalières,viennoiserie,0.005925925925925926
+aliments destinés à une alimentation particulière,sucre et assimilés,0.005917159763313609
+confiserie,lait en bouteille ou en brique,0.005904059040590407
+pâtisseries et tartes,viennoiserie,0.005891016200294551
+beurre,haricots verts et petits pois (légumes potagers),0.005876591576885406
+café,légumes fruits,0.005858230814294083
+eau minérale plate,"pâtés, terrines, rillettes et foie gras",0.0058479532163742695
+café,sandwichs baguette,0.005847953216374269
+fromages fondus,viennoiserie,0.005847953216374269
+blé,café,0.0058309037900874635
+eau minérale plate,entremets,0.0058309037900874635
+beurre,"légumes racines, tubercules ou bulbes",0.005808325266214908
+eau minérale plate,sodas et colas,0.0057971014492753615
+beurre,sodas et colas,0.005736137667304015
+jambons et charcuteries en pièces,lait en bouteille ou en brique,0.005722460658082976
+crème dessert et lait gélifié,viennoiserie,0.005714285714285714
+eau minérale plate,pâtisseries et tartes,0.00554016620498615
+aliments destinés à une alimentation particulière,plats à base de pâtes ou de pommes de terre,0.005509641873278237
+légumes fruits,pain,0.005470459518599562
+aliments destinés à une alimentation particulière,autre charcuterie ou charcuterie  sans précision,0.005449591280653951
+compotes,pâte chocolatée à tartiner,0.005434782608695653
+aliments destinés à une alimentation particulière,autres fromages ou fromage sans précision,0.005434782608695652
+pain,sel et épices,0.005428881650380022
+"beignets, crêpes et gaufres",yaourts et assimilés,0.005427408412483039
+entremets,pain,0.005425935973955507
+chocolat en tablettes,"céréales sucrées, glacées ou au miel",0.005405405405405405
+aliments destinés à une alimentation particulière,biscuits salés pour apéritif,0.005390835579514825
+aliments destinés à une alimentation particulière,condiments d'assaisonnement,0.005390835579514825
+"beignets, crêpes et bouchées à la reine",eau du robinet,0.005376344086021506
+autre charcuterie ou charcuterie  sans précision,eau du robinet,0.005369127516778524
+eau du robinet,gibier,0.005369127516778524
+eau du robinet,haricots verts et petits pois (légumes potagers),0.005369127516778524
+eau du robinet,légumes feuilles,0.005361930294906166
+condiments d'assaisonnement,eau du robinet,0.005326231691078562
+jus de fruits (purs et à base  de concentré),pommes de terre et apparentés,0.005323868677905945
+eau du robinet,poissons de mer,0.0053191489361702135
+eau du robinet,sandwichs baguette,0.005305039787798409
+aliments destinés à une alimentation particulière,crème fraîche,0.005305039787798408
+eau du robinet,"légumes racines, tubercules ou bulbes",0.005284015852047556
+barres chocolatées,jus de fruits (purs et à base  de concentré),0.005272407732864675
+aliments destinés à une alimentation particulière,fromages frais non affinés,0.005263157894736842
+entremets,jus de fruits (purs et à base  de concentré),0.005190311418685121
+confiserie,jus de fruits (purs et à base  de concentré),0.00519031141868512
+eau minérale gazeuse,eau minérale plate,0.0051813471502590676
+"cacao, poudres et boissons cacaotées",desserts glacés,0.005154639175257732
+eau minérale plate,fromages fondus,0.005154639175257732
+bouillons,fruits,0.005115089514066497
+choux,fruits,0.005115089514066497
+eau minérale plate,nectars,0.005115089514066497
+fruits,gibier,0.005108556832694764
+fruits,pommes de terre et apparentés,0.005095541401273885
+condiments d'accompagnement,fruits,0.005089058524173028
+fruits,produits dérivés des poissons,0.005082592121982211
+autres fromages ou fromage sans précision,fruits,0.005063291139240507
+barres céréalières,eau du robinet,0.005063291139240506
+"cacao, poudres et boissons cacaotées",légumes fruits,0.005050505050505051
+fruits,sandwichs baguette,0.005037783375314861
+aliments destinés à une alimentation particulière,barres céréalières,0.004999999999999999
+entremets,fruits,0.004914004914004914
+boissons aux fruits,fruits,0.0048192771084337345
+biscuits sucrés,fromages affinés,0.004807692307692308
+aliments destinés à une alimentation particulière,nectars,0.004784688995215311
+agneau,chicorée et poudre maltée,0.004728132387706856
+chicorée et poudre maltée,plats garnis à base de viande,0.004716981132075472
+chicorée et poudre maltée,gibier,0.004705882352941176
+chicorée et poudre maltée,haricots verts et petits pois (légumes potagers),0.004705882352941176
+café,potages et soupes,0.004694835680751173
+"cacao, poudres et boissons cacaotées",oléagineux et graines,0.004683840749414521
+autres fromages ou fromage sans précision,chicorée et poudre maltée,0.004672897196261683
+chicorée et poudre maltée,poissons de mer,0.004672897196261683
+café,"légumes racines, tubercules ou bulbes",0.0046701692936368935
+chicorée et poudre maltée,sandwichs baguette,0.004651162790697675
+chicorée et poudre maltée,condiments d'assaisonnement,0.0046403712296983765
+"cacao, poudres et boissons cacaotées",pâtisseries et tartes,0.004640371229698376
+chicorée et poudre maltée,"saucisses, saucissons, andouilles et boudins",0.004566210045662101
+chicorée et poudre maltée,fromages frais non affinés,0.004545454545454545
+confiture et miel,volailles et lapins,0.0045385779122541605
+aliments destinés à une alimentation particulière,crème dessert et lait gélifié,0.0045351473922902496
+autres graisses,thé et infusions,0.0045351473922902496
+choux,thé et infusions,0.0045351473922902496
+feuilletés et friands,thé et infusions,0.0045351473922902496
+pommes de terre et apparentés,sucre et assimilés,0.0045351473922902496
+produits dérivés des poissons,sucre et assimilés,0.0045351473922902496
+autres produits de panification,sucre et assimilés,0.004531722054380665
+condiments d'accompagnement,sucre et assimilés,0.004531722054380665
+mélanges,thé et infusions,0.004530011325028312
+confiture et miel,entremets,0.004528301886792453
+aliments destinés à une alimentation particulière,céréales chocolatées,0.004524886877828054
+bœuf en pièces ou haché,sucre et assimilés,0.00452147701582517
+barres chocolatées,sucre et assimilés,0.004518072289156626
+condiments d'assaisonnement,lait en bouteille ou en brique,0.004518072289156626
+chicorée et poudre maltée,volailles et lapins,0.004514672686230249
+autres fromages ou fromage sans précision,thé et infusions,0.004514672686230248
+confiture et miel,"pâtés, terrines, rillettes et foie gras",0.004511278195488721
+autres produits de panification,thé et infusions,0.0045045045045045045
+poissons de mer,thé et infusions,0.0045045045045045045
+bœuf en pièces ou haché,thé et infusions,0.0044994375703037125
+chocolat en tablettes,eau de source,0.0044943820224719105
+autres céréales,sucre et assimilés,0.004487658937920718
+"cacao, poudres et boissons cacaotées",jambons et charcuteries en pièces,0.004464285714285714
+confiserie,sucre et assimilés,0.004457652303120357
+lait en bouteille ou en brique,"pâtés, terrines, rillettes et foie gras",0.0044444444444444444
+entremets,thé et infusions,0.004415011037527594
+"pâtés, terrines, rillettes et foie gras",thé et infusions,0.004410143329658214
+barres céréalières,chicorée et poudre maltée,0.0043859649122807015
+condiments d'accompagnement,pain,0.004383561643835617
+pain,poissons de mer,0.004383561643835617
+chicorée et poudre maltée,oeufs et dérivés,0.004310344827586207
+barres céréalières,thé et infusions,0.004301075268817205
+"cacao, poudres et boissons cacaotées",chicorée et poudre maltée,0.004296455424274974
+"cacao, poudres et boissons cacaotées",crème dessert et lait gélifié,0.004291845493562232
+chicorée et poudre maltée,nectars,0.00425531914893617
+chicorée et poudre maltée,thé et infusions,0.004189944134078212
+chicorée et poudre maltée,jambons et charcuteries en pièces,0.004158004158004157
+beurre,choux,0.00392156862745098
+autres poissons ou poissons sans précision,beurre,0.0039177277179236044
+beurre,herbes aromatiques,0.0039177277179236044
+beurre,pâtes alimentaires,0.0039177277179236044
+beurre,lait aromatisé,0.0039100684261974585
+beurre,mélanges,0.0039100684261974585
+beurre,pommes de terre et apparentés,0.0039100684261974585
+beurre,potages et soupes,0.00390625
+beurre,riz,0.0038986354775828462
+beurre,poissons de mer,0.0038986354775828454
+beurre,biscuits salés pour apéritif,0.0038948393378773123
+beurre,bœuf en pièces ou haché,0.0038948393378773123
+beurre,crème fraîche,0.003857280617164899
+beurre,entremets,0.003853564547206166
+beurre,sauces,0.0038498556304138597
+beurre,"saucisses, saucissons, andouilles et boudins",0.003846153846153847
+barres céréalières,beurre,0.003809523809523809
+beurre,"pâtés, terrines, rillettes et foie gras",0.003791469194312796
+beurre,pâtisseries et tartes,0.0037735849056603774
+margarine,pâtes alimentaires,0.00373134328358209
+légumes feuilles,margarine,0.0037243947858473
+autre charcuterie ou charcuterie  sans précision,margarine,0.0037174721189591076
+lait aromatisé,margarine,0.0037174721189591076
+bœuf en pièces ou haché,margarine,0.003690036900369004
+condiments d'assaisonnement,margarine,0.003690036900369004
+"légumes racines, tubercules ou bulbes",margarine,0.0036496350364963507
+margarine,sauces,0.0036231884057971015
+fromages frais non affinés,margarine,0.0036166365280289334
+margarine,"saucisses, saucissons, andouilles et boudins",0.003616636528028933
+choux,jus de fruits (purs et à base  de concentré),0.0035587188612099642
+jus de fruits (purs et à base  de concentré),produits dérivés des poissons,0.0035492457852706297
+condiments d'accompagnement,jus de fruits (purs et à base  de concentré),0.0035460992907801418
+margarine,"pâtés, terrines, rillettes et foie gras",0.0035460992907801418
+café,herbes aromatiques,0.003527336860670194
+café,produits dérivés des poissons,0.003523194362889019
+autres fromages ou fromage sans précision,café,0.0035211267605633804
+café,condiments d'accompagnement,0.0035211267605633804
+café,condiments d'assaisonnement,0.0035149384885764497
+jus de fruits (purs et à base  de concentré),sauces,0.0035118525021949074
+biscottes et panification sèche,spiritueux et vins cuits,0.003460207612456747
+"beignets, crêpes et bouchées à la reine",biscottes et panification sèche,0.0034542314335060447
+biscottes et panification sèche,herbes aromatiques,0.0034482758620689655
+biscottes et panification sèche,mélanges,0.0034482758620689655
+biscottes et panification sèche,poissons de mer,0.003418803418803419
+biscottes et panification sèche,sauces,0.003367003367003367
+biscottes et panification sèche,entremets,0.003316749585406302
+champignons,yaourts et assimilés,0.0033057851239669425
+herbes aromatiques,yaourts et assimilés,0.0032948929159802307
+huile,margarine,0.0032948929159802307
+autre charcuterie ou charcuterie  sans précision,pain,0.0032930845225027446
+mélanges,pain,0.0032930845225027446
+pain,produits dérivés des poissons,0.0032894736842105266
+lait aromatisé,pain,0.0032858707557502738
+biscottes et panification sèche,boissons aux fruits,0.003284072249589491
+condiments d'assaisonnement,pain,0.0032822757111597373
+condiments d'accompagnement,yaourts et assimilés,0.003278688524590164
+légumes secs,yaourts et assimilés,0.003278688524590164
+crème fraîche,pain,0.0032679738562091504
+riz,yaourts et assimilés,0.00326797385620915
+bœuf en pièces ou haché,yaourts et assimilés,0.0032626427406199023
+légumes fruits,yaourts et assimilés,0.0032626427406199023
+desserts glacés,viennoiserie,0.0032467532467532465
+"légumes racines, tubercules ou bulbes",yaourts et assimilés,0.0032310177705977385
+biscuits salés pour apéritif,yaourts et assimilés,0.003231017770597738
+autre charcuterie ou charcuterie  sans précision,viennoiserie,0.0032258064516129032
+sauces,yaourts et assimilés,0.00322061191626409
+crème fraîche,yaourts et assimilés,0.0032102728731942215
+autres produits de panification,viennoiserie,0.0032
+sel et épices,yaourts et assimilés,0.0032
+biscottes et panification sèche,oeufs et dérivés,0.0031999999999999997
+barres chocolatées,viennoiserie,0.003189792663476874
+sandwichs baguette,viennoiserie,0.0031695721077654522
+confiserie,yaourts et assimilés,0.003144654088050314
+entremets,yaourts et assimilés,0.003144654088050314
+biscottes et panification sèche,jambons et charcuteries en pièces,0.003115264797507788
+confiture et miel,potages et soupes,0.0030651340996168583
+confiture et miel,légumes fruits,0.0030627871362940273
+autres fromages ou fromage sans précision,confiture et miel,0.0030604437643458296
+autres graisses,sucre et assimilés,0.0030303030303030303
+"beignets, crêpes et bouchées à la reine",sucre et assimilés,0.0030303030303030303
+choux,sucre et assimilés,0.0030303030303030303
+pâtes alimentaires,sucre et assimilés,0.0030280090840272525
+légumes feuilles,sucre et assimilés,0.0030257186081694403
+herbes aromatiques,lait en bouteille ou en brique,0.00302571860816944
+condiments d'accompagnement,lait en bouteille ou en brique,0.0030188679245283017
+lait en bouteille ou en brique,potages et soupes,0.0030188679245283017
+lait en bouteille ou en brique,"légumes racines, tubercules ou bulbes",0.0029985007496251873
+lait en bouteille ou en brique,sandwichs baguette,0.0029962546816479398
+blé,sucre et assimilés,0.0029917726252804786
+lait en bouteille ou en brique,volailles et lapins,0.002980625931445604
+barres céréalières,confiture et miel,0.002978406552494416
+jambons et charcuteries en pièces,viennoiserie,0.0029411764705882353
+huile,viennoiserie,0.002911208151382824
+autre lait,yaourts et assimilés,0.0028129395218002813
+agneau,eau du robinet,0.0026917900403768506
+autre viande,eau du robinet,0.0026917900403768506
+choux,eau du robinet,0.002688172043010753
+eau du robinet,plats garnis à base de viande,0.002688172043010753
+eau du robinet,pâtes alimentaires,0.002684563758389262
+bouillons,eau du robinet,0.002680965147453083
+eau du robinet,produits dérivés des poissons,0.0026773761713520753
+eau du robinet,légumes secs,0.0026737967914438505
+autres fromages ou fromage sans précision,eau du robinet,0.002666666666666667
+eau du robinet,riz,0.002666666666666667
+autres produits de panification,eau du robinet,0.0026595744680851068
+eau du robinet,entremets,0.002583979328165375
+agneau,fruits,0.002560819462227913
+autre viande,fruits,0.002560819462227913
+champignons,fruits,0.002560819462227913
+fruits,légumes tiges,0.002560819462227913
+autres graisses,fruits,0.0025575447570332483
+crustacés,fruits,0.0025575447570332483
+feuilletés et friands,fruits,0.0025575447570332483
+fruits,plats garnis à base de viande,0.0025575447570332483
+autres poissons ou poissons sans précision,fruits,0.002554278416347382
+fruits,haricots verts et petits pois (légumes potagers),0.002554278416347382
+fruits,herbes aromatiques,0.002554278416347382
+fruits,légumes feuilles,0.0025510204081632655
+autres sandwichs,fruits,0.002547770700636943
+fruits,fruits au sirop,0.0025445292620865138
+fruits,poissons de mer,0.0025316455696202536
+biscuits salés pour apéritif,fruits,0.002515723270440251
+fromages frais non affinés,fruits,0.0024937655860349122
+crème fraîche,fruits,0.0024906600249066
+fruits,sodas et colas,0.002450980392156863
+café,pâtes alimentaires,0.0023515579071134627
+café,légumes feuilles,0.0023474178403755865
+bœuf en pièces ou haché,café,0.002343292325717633
+biscuits salés pour apéritif,café,0.002340550029256875
+barres chocolatées,café,0.002336448598130841
+autre viande,thé et infusions,0.002270147559591373
+champignons,thé et infusions,0.002270147559591373
+légumes tiges,thé et infusions,0.002270147559591373
+plats à base de pâtes ou de pommes de terre,thé et infusions,0.002270147559591373
+porc,thé et infusions,0.002270147559591373
+"beignets, crêpes et bouchées à la reine",thé et infusions,0.0022675736961451248
+autres poissons ou poissons sans précision,thé et infusions,0.002265005662514156
+haricots verts et petits pois (légumes potagers),thé et infusions,0.002265005662514156
+produits dérivés des poissons,thé et infusions,0.0022598870056497176
+potages et soupes,thé et infusions,0.002257336343115124
+légumes fruits,thé et infusions,0.0022497187851518562
+crème fraîche,thé et infusions,0.0022396416573348264
+barres chocolatées,thé et infusions,0.0022321428571428575
+autres graisses,pain,0.002196595277320154
+gibier,pain,0.0021953896816684962
+pain,pâtes alimentaires,0.0021953896816684962
+légumes feuilles,pain,0.0021941854086670325
+pain,pommes de terre et apparentés,0.0021929824561403508
+pain,potages et soupes,0.0021917808219178085
+biscuits salés pour apéritif,pain,0.0021834061135371182
+beurre,margarine,0.0020714655618850335
+agneau,beurre,0.001962708537782139
+beurre,légumes tiges,0.001962708537782139
+beurre,"mélanges de légumes, légumes préparés et autres légumes",0.001962708537782139
+beurre,plats à base de pâtes ou de pommes de terre,0.001962708537782139
+autres sandwichs,beurre,0.0019588638589618022
+beurre,fruits au sirop,0.0019569471624266144
+beurre,légumes feuilles,0.0019569471624266144
+autres produits de panification,beurre,0.001953125
+beurre,condiments d'accompagnement,0.001953125
+beurre,légumes secs,0.001953125
+beurre,produits dérivés des poissons,0.0019474196689386564
+beurre,condiments d'assaisonnement,0.0019474196689386561
+beurre,légumes fruits,0.0019436345966958213
+beurre,vin,0.0019083969465648854
+autre viande,jus de fruits (purs et à base  de concentré),0.0017809439002671413
+jus de fruits (purs et à base  de concentré),légumes tiges,0.0017809439002671413
+jus de fruits (purs et à base  de concentré),"mélanges de légumes, légumes préparés et autres légumes",0.0017809439002671413
+jus de fruits (purs et à base  de concentré),quiches et tartes salées,0.0017809439002671413
+crustacés,jus de fruits (purs et à base  de concentré),0.0017793594306049821
+gibier,jus de fruits (purs et à base  de concentré),0.0017777777777777776
+herbes aromatiques,jus de fruits (purs et à base  de concentré),0.0017777777777777776
+fruits au sirop,jus de fruits (purs et à base  de concentré),0.001776198934280639
+jus de fruits (purs et à base  de concentré),légumes feuilles,0.001776198934280639
+autres sandwichs,jus de fruits (purs et à base  de concentré),0.0017746228926353148
+jus de fruits (purs et à base  de concentré),légumes secs,0.0017730496453900709
+jus de fruits (purs et à base  de concentré),potages et soupes,0.0017730496453900709
+bœuf en pièces ou haché,jus de fruits (purs et à base  de concentré),0.0017683465959328027
+autres produits de panification,jus de fruits (purs et à base  de concentré),0.0017667844522968198
+jus de fruits (purs et à base  de concentré),poissons de mer,0.0017667844522968198
+jus de fruits (purs et à base  de concentré),lait aromatisé,0.00176522506619594
+biscuits salés pour apéritif,jus de fruits (purs et à base  de concentré),0.001762114537444934
+jus de fruits (purs et à base  de concentré),sandwichs baguette,0.001757469244288225
+fromages frais non affinés,jus de fruits (purs et à base  de concentré),0.0017543859649122807
+jus de fruits (purs et à base  de concentré),"pâtés, terrines, rillettes et foie gras",0.0017376194613379669
+jus de fruits (purs et à base  de concentré),sodas et colas,0.001718213058419244
+jus de fruits (purs et à base  de concentré),nectars,0.0016420361247947454
+confiture et miel,plats à base de pâtes ou de pommes de terre,0.0015408320493066254
+autre charcuterie ou charcuterie  sans précision,confiture et miel,0.0015360983102918587
+confiture et miel,mélanges,0.0015360983102918587
+confiture et miel,fruits au sirop,0.0015349194167306216
+condiments d'assaisonnement,confiture et miel,0.0015313935681470136
+biscuits salés pour apéritif,confiture et miel,0.0015267175572519084
+confiture et miel,sauces,0.0015220700152207
+confiture et miel,sel et épices,0.0015174506828528071
+abats,sucre et assimilés,0.001516300227445034
+agneau,sucre et assimilés,0.001516300227445034
+autre viande,sucre et assimilés,0.001516300227445034
+confiture et miel,fromages frais non affinés,0.001516300227445034
+confiture et miel,"saucisses, saucissons, andouilles et boudins",0.001516300227445034
+légumes tiges,sucre et assimilés,0.001516300227445034
+"mélanges de légumes, légumes préparés et autres légumes",sucre et assimilés,0.001516300227445034
+pizzas,sucre et assimilés,0.001516300227445034
+porc,sucre et assimilés,0.001516300227445034
+crustacés,sucre et assimilés,0.0015151515151515152
+agneau,lait en bouteille ou en brique,0.001515151515151515
+lait en bouteille ou en brique,plats à base de pâtes ou de pommes de terre,0.001515151515151515
+haricots verts et petits pois (légumes potagers),sucre et assimilés,0.0015140045420136263
+herbes aromatiques,sucre et assimilés,0.0015140045420136263
+"beignets, crêpes et bouchées à la reine",lait en bouteille ou en brique,0.001514004542013626
+autre charcuterie ou charcuterie  sans précision,lait en bouteille ou en brique,0.00151285930408472
+autres sandwichs,lait en bouteille ou en brique,0.00151285930408472
+haricots verts et petits pois (légumes potagers),lait en bouteille ou en brique,0.00151285930408472
+lait en bouteille ou en brique,pâtes alimentaires,0.00151285930408472
+lait aromatisé,sucre et assimilés,0.0015117157974300834
+fruits au sirop,lait en bouteille ou en brique,0.001511715797430083
+lait en bouteille ou en brique,poissons de mer,0.0015071590052750565
+lait en bouteille ou en brique,riz,0.0015071590052750565
+légumes fruits,sucre et assimilés,0.0015071590052750565
+lait en bouteille ou en brique,légumes fruits,0.0015037593984962405
+sandwichs baguette,sucre et assimilés,0.0014992503748125937
+lait en bouteille ou en brique,sauces,0.001497005988023952
+crème fraîche,lait en bouteille ou en brique,0.0014925373134328358
+entremets,lait en bouteille ou en brique,0.0014760147601476014
+abats,café,0.0011771630370806356
+café,"mélanges de légumes, légumes préparés et autres légumes",0.0011771630370806356
+café,pizzas,0.0011771630370806356
+café,spiritueux et vins cuits,0.0011771630370806356
+"beignets, crêpes et bouchées à la reine",café,0.001176470588235294
+café,crustacés,0.001176470588235294
+autre charcuterie ou charcuterie  sans précision,café,0.0011757789535567313
+café,gibier,0.0011757789535567313
+autres sandwichs,café,0.0011743981209630064
+café,légumes secs,0.0011737089201877932
+autres produits de panification,café,0.0011723329425556857
+café,riz,0.0011723329425556857
+café,poissons de mer,0.00117096018735363
+café,lait aromatisé,0.0011702750146284377
+agneau,pain,0.001098901098901099
+autre viande,pain,0.001098901098901099
+légumes tiges,pain,0.001098901098901099
+pain,plats à base de pâtes ou de pommes de terre,0.001098901098901099
+pain,porc,0.001098901098901099
+pain,veau,0.001098901098901099
+choux,pain,0.001098297638660077
+crustacés,pain,0.001098297638660077
+pain,plats garnis à base de viande,0.001098297638660077
+autres poissons ou poissons sans précision,pain,0.0010976948408342481
+haricots verts et petits pois (légumes potagers),pain,0.0010976948408342481
+fruits au sirop,pain,0.0010970927043335162
+autres sandwichs,pain,0.0010964912280701754
+pain,riz,0.0010946907498631637
+autres produits de panification,pain,0.0010922992900054616
+barres chocolatées,pain,0.0010922992900054616
+pain,sandwichs baguette,0.0010911074740861974
+autres céréales,pain,0.001088139281828074
+blé,pain,0.0010869565217391304
